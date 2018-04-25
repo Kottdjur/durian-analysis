@@ -1,0 +1,22 @@
+Assembly	durian_pacbio.contigs
+# contigs (>= 0 bp)	522
+# contigs (>= 1000 bp)	522
+# contigs (>= 5000 bp)	518
+# contigs (>= 10000 bp)	456
+# contigs (>= 25000 bp)	125
+# contigs (>= 50000 bp)	62
+Total length (>= 0 bp)	33643051
+Total length (>= 1000 bp)	33643051
+Total length (>= 5000 bp)	33631824
+Total length (>= 10000 bp)	33108986
+Total length (>= 25000 bp)	27751758
+Total length (>= 50000 bp)	25793356
+# contigs	522
+Largest contig	2322816
+Total length	33643051
+GC (%)	31.13
+N50	446658
+N75	84423
+L50	19
+L75	54
+# N's per 100 kbp	0.00

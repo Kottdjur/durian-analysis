@@ -1,0 +1,61 @@
+/sw/apps/bioinfo/quast/4.5.4/rackham/bin/quast.py -o /home/emos8710/durian-analysis/analyses/08_quast_canu_assembly_noref /home/emos8710/durian-analysis/analyses/01_canu_pacbio_DNA/durian_pacbio.contigs.fasta
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-693.21.1.el7.x86_64-x86_64-with-centos-7.4.1708-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2018-04-25 14:50:30
+
+Logging to /home/emos8710/durian-analysis/analyses/08_quast_canu_assembly_noref/quast.log
+NOTICE: Maximum number of threads is set to 5 (use --threads option to set it manually)
+
+CWD: /pica/h1/emos8710/durian-analysis/analyses
+Main parameters: 
+  Threads: 5, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/emos8710/durian-analysis/analyses/01_canu_pacbio_DNA/durian_pacbio.contigs.fasta ==> durian_pacbio.contigs
+
+2018-04-25 14:50:33
+Running Basic statistics processor...
+  Contig files: 
+    durian_pacbio.contigs
+  Calculating N50 and L50...
+    durian_pacbio.contigs, N50 = 446658, L50 = 19, Total length = 33643051, GC % = 31.13, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/emos8710/durian-analysis/analyses/08_quast_canu_assembly_noref/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/emos8710/durian-analysis/analyses/08_quast_canu_assembly_noref/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/emos8710/durian-analysis/analyses/08_quast_canu_assembly_noref/basic_stats/GC_content_plot.pdf
+  Drawing durian_pacbio.contigs GC content plot...
+    saved to /home/emos8710/durian-analysis/analyses/08_quast_canu_assembly_noref/basic_stats/durian_pacbio.contigs_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2018-04-25 14:50:37
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2018-04-25 14:50:38
+RESULTS:
+  Text versions of total report are saved to /home/emos8710/durian-analysis/analyses/08_quast_canu_assembly_noref/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/emos8710/durian-analysis/analyses/08_quast_canu_assembly_noref/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/emos8710/durian-analysis/analyses/08_quast_canu_assembly_noref/report.html
+  PDF version (tables and plots) is saved to /home/emos8710/durian-analysis/analyses/08_quast_canu_assembly_noref/report.pdf
+  Icarus (contig browser) is saved to /home/emos8710/durian-analysis/analyses/08_quast_canu_assembly_noref/icarus.html
+  Log saved to /home/emos8710/durian-analysis/analyses/08_quast_canu_assembly_noref/quast.log
+
+Finished: 2018-04-25 14:50:38
+Elapsed time: 0:00:08.197594
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
