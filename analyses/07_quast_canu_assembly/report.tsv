@@ -1,0 +1,49 @@
+Assembly	durian_pacbio.contigs
+# contigs (>= 0 bp)	522
+# contigs (>= 1000 bp)	522
+# contigs (>= 5000 bp)	518
+# contigs (>= 10000 bp)	456
+# contigs (>= 25000 bp)	125
+# contigs (>= 50000 bp)	62
+Total length (>= 0 bp)	33643051
+Total length (>= 1000 bp)	33643051
+Total length (>= 5000 bp)	33631824
+Total length (>= 10000 bp)	33108986
+Total length (>= 25000 bp)	27751758
+Total length (>= 50000 bp)	25793356
+# contigs	522
+Largest contig	2322816
+Total length	33643051
+Reference length	26551601
+GC (%)	31.13
+Reference GC (%)	30.98
+N50	446658
+NG50	549254
+N75	84423
+NG75	317831
+L50	19
+LG50	13
+L75	54
+LG75	27
+# misassemblies	233
+# misassembled contigs	122
+Misassembled contigs length	24524046
+# local misassemblies	243
+# unaligned mis. contigs	18
+# unaligned contigs	154 + 204 part
+Unaligned length	4004809
+Genome fraction (%)	97.014
+Duplication ratio	1.151
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	346.87
+# indels per 100 kbp	189.21
+Largest alignment	1260959
+Total aligned length	29628236
+NA50	211109
+NGA50	281416
+NA75	25947
+NGA75	131907
+LA50	40
+LGA50	25
+LA75	137
+LGA75	59

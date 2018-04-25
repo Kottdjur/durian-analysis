@@ -1,0 +1,137 @@
+/sw/apps/bioinfo/quast/4.5.4/rackham/bin/quast.py -R reference_scaffold06.fasta -o /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly /home/emos8710/durian-analysis/analyses/01_canu_pacbio_DNA/durian_pacbio.contigs.fasta
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-693.21.1.el7.x86_64-x86_64-with-centos-7.4.1708-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2018-04-25 14:32:20
+
+Logging to /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/quast.log
+NOTICE: Maximum number of threads is set to 5 (use --threads option to set it manually)
+
+CWD: /pica/h1/emos8710/durian-analysis/data/reference_scaffold06
+Main parameters: 
+  Threads: 5, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Reference:
+  reference_scaffold06.fasta ==> reference_scaffold06
+
+Contigs:
+  Pre-processing...
+  /home/emos8710/durian-analysis/analyses/01_canu_pacbio_DNA/durian_pacbio.contigs.fasta ==> durian_pacbio.contigs
+
+2018-04-25 14:32:40
+Running Basic statistics processor...
+  Reference genome:
+    reference_scaffold06.fasta, length = 26551601, num fragments = 1, GC % = 30.98
+  Contig files: 
+    durian_pacbio.contigs
+  Calculating N50 and L50...
+    durian_pacbio.contigs, N50 = 446658, L50 = 19, Total length = 33643051, GC % = 31.13, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/basic_stats/GC_content_plot.pdf
+  Drawing durian_pacbio.contigs GC content plot...
+    saved to /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/basic_stats/durian_pacbio.contigs_GC_content_plot.pdf
+Done.
+
+2018-04-25 14:32:48
+Running Contig analyzer...
+  durian_pacbio.contigs
+  Logging to files /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/contigs_reports/contigs_report_durian_pacbio-contigs.stdout and contigs_report_durian_pacbio-contigs.stderr...
+  Aligning contigs to the reference
+  /sw/apps/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/nucmer \
+  -c 65 -l 65 --maxmatch -p /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/contigs_reports/nucmer_output/durian_pacbio-contigs \
+  --emem -t 5 /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/quast_corrected_input/reference_scaffold06.fasta \
+  /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/quast_corrected_input/durian_pacbio-contigs.fasta \
+  >> /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/contigs_reports/contigs_report_durian_pacbio-contigs.stdout \
+  2>> /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/contigs_reports/contigs_report_durian_pacbio-contigs.stderr
+  /sw/apps/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/delta-filter \
+  -i 95.0 -l 0 /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/contigs_reports/nucmer_output/durian_pacbio-contigs.delta \
+  > /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/contigs_reports/nucmer_output/durian_pacbio-contigs.fdelta \
+  2> /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/contigs_reports/contigs_report_durian_pacbio-contigs.stderr
+  /sw/apps/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/mummerplot \
+  --html --layout -p /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/contigs_reports/nucmer_output/durian_pacbio-contigs \
+  /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/contigs_reports/nucmer_output/durian_pacbio-contigs.delta \
+  > /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/contigs_reports/contigs_report_durian_pacbio-contigs.stdout \
+  2> /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/contigs_reports/contigs_report_durian_pacbio-contigs.stderr
+  /sw/apps/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/gnuplot/src/gnuplot \
+  /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/contigs_reports/nucmer_output/durian_pacbio-contigs.gp \
+  > /dev/null 2> /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/contigs_reports/contigs_report_durian_pacbio-contigs.stderr
+  MUMmer plot saved to /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/contigs_reports/durian_pacbio-contigs_mummerplot.html
+  /sw/apps/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/show-coords \
+  /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/contigs_reports/nucmer_output/durian_pacbio-contigs.delta \
+  > /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/contigs_reports/nucmer_output/durian_pacbio-contigs.coords_tmp \
+  2> /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/contigs_reports/contigs_report_durian_pacbio-contigs.stderr
+  /sw/apps/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/show-snps \
+  -S -T -H /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/contigs_reports/nucmer_output/durian_pacbio-contigs.delta \
+  < /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/contigs_reports/nucmer_output/durian_pacbio-contigs.coords.headless \
+  > /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/contigs_reports/nucmer_output/durian_pacbio-contigs.all_snps \
+  2> /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/contigs_reports/contigs_report_durian_pacbio-contigs.stderr
+  Analysis is finished.
+
+  Gzipping /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/contigs_reports/nucmer_output/durian_pacbio-contigs.all_snps to reduce disk space usage...
+    saved to /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/contigs_reports/nucmer_output/durian_pacbio-contigs.all_snps.gz
+  Creating total report...
+    saved to /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2018-04-25 14:35:58
+Running NA-NGA calculation...
+  durian_pacbio.contigs, Largest alignment = 1260959, NA50 = 211109, NGA50 = 281416, LA50 = 40, LGA50 = 25
+  Drawing cumulative plot...
+    saved to /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/aligned_stats/NAx_plot.pdf
+  Drawing NGAx plot...
+    saved to /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/aligned_stats/NGAx_plot.pdf
+Done.
+
+2018-04-25 14:36:01
+Running Genome analyzer...
+  NOTICE: No file with genes provided. Use the -G option if you want to specify it.
+  NOTICE: No file with operons provided. Use the -O option if you want to specify it.
+  durian_pacbio.contigs
+  Analysis is finished.
+  Skipping drawing Genome fraction, % histogram... (less than 2 columns histogram makes no sense)
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2018-04-25 14:36:13
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2018-04-25 14:36:17
+RESULTS:
+  Text versions of total report are saved to /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/report.html
+  PDF version (tables and plots) is saved to /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/report.pdf
+  Icarus (contig browser) is saved to /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/icarus.html
+  Log saved to /home/emos8710/durian-analysis/analyses/07_quast_canu_assembly/quast.log
+
+Finished: 2018-04-25 14:36:17
+Elapsed time: 0:03:56.456079
+NOTICEs: 4; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

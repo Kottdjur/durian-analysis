@@ -1,0 +1,14 @@
+Assembly	durian_pacbio.contigs
+# misassemblies	233
+    # relocations	232
+    # translocations	0
+    # inversions	1
+# misassembled contigs	122
+Misassembled contigs length	24524046
+# local misassemblies	243
+# unaligned mis. contigs	18
+# mismatches	89348
+# indels	48739
+    # indels (<= 5 bp)	46271
+    # indels (> 5 bp)	2468
+Indels length	92738
