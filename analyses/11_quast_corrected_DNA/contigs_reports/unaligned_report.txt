@@ -1,0 +1,8 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                       corrected_DNA
+# fully unaligned contigs      152          
+Fully unaligned length         2066526      
+# partially unaligned contigs  207          
+Partially unaligned length     1916740      
+# N's                          0            
