@@ -1,0 +1,51 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     corrected_DNA
+# contigs (>= 0 bp)          522          
+# contigs (>= 1000 bp)       522          
+# contigs (>= 5000 bp)       518          
+# contigs (>= 10000 bp)      456          
+# contigs (>= 25000 bp)      125          
+# contigs (>= 50000 bp)      62           
+Total length (>= 0 bp)       33628515     
+Total length (>= 1000 bp)    33628515     
+Total length (>= 5000 bp)    33617261     
+Total length (>= 10000 bp)   33094350     
+Total length (>= 25000 bp)   27736641     
+Total length (>= 50000 bp)   25778906     
+# contigs                    522          
+Largest contig               2322263      
+Total length                 33628515     
+Reference length             33643051     
+GC (%)                       31.15        
+Reference GC (%)             31.13        
+N50                          446274       
+NG50                         446274       
+N75                          84359        
+NG75                         84359        
+L50                          19           
+LG50                         19           
+L75                          54           
+LG75                         54           
+# misassemblies              7            
+# misassembled contigs       6            
+Misassembled contigs length  5953694      
+# local misassemblies        33           
+# unaligned mis. contigs     0            
+# unaligned contigs          0 + 0 part   
+Unaligned length             0            
+Genome fraction (%)          99.924       
+Duplication ratio            1.000        
+# N's per 100 kbp            0.00         
+# mismatches per 100 kbp     236.12       
+# indels per 100 kbp         102.66       
+Largest alignment            2322168      
+Total aligned length         33626778     
+NA50                         407732       
+NGA50                        407732       
+NA75                         84359        
+NGA75                        84359        
+LA50                         23           
+LGA50                        23           
+LA75                         60           
+LGA75                        60           

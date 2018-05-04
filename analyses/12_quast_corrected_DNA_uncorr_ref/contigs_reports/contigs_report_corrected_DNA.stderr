@@ -1,0 +1,5 @@
+Writing filtered delta file /home/emos8710/durian-analysis/analyses/12_quast_corrected_DNA_uncorr_ref/contigs_reports/nucmer_output/corrected_DNA.filter
+Reading delta file /home/emos8710/durian-analysis/analyses/12_quast_corrected_DNA_uncorr_ref/contigs_reports/nucmer_output/corrected_DNA.delta
+Writing plot files /home/emos8710/durian-analysis/analyses/12_quast_corrected_DNA_uncorr_ref/contigs_reports/nucmer_output/corrected_DNA.fplot, /home/emos8710/durian-analysis/analyses/12_quast_corrected_DNA_uncorr_ref/contigs_reports/nucmer_output/corrected_DNA.rplot
+Writing gnuplot script /home/emos8710/durian-analysis/analyses/12_quast_corrected_DNA_uncorr_ref/contigs_reports/nucmer_output/corrected_DNA.gp
+Rendering plot /home/emos8710/durian-analysis/analyses/12_quast_corrected_DNA_uncorr_ref/contigs_reports/nucmer_output/corrected_DNA.html

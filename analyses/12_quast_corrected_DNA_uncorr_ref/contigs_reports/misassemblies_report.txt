@@ -1,0 +1,16 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     corrected_DNA
+# misassemblies              7            
+    # relocations            7            
+    # translocations         0            
+    # inversions             0            
+# misassembled contigs       6            
+Misassembled contigs length  5953694      
+# local misassemblies        33           
+# unaligned mis. contigs     0            
+# mismatches                 79377        
+# indels                     34512        
+    # indels (<= 5 bp)       32449        
+    # indels (> 5 bp)        2063         
+Indels length                69935        
