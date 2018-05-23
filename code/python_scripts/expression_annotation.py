@@ -56,20 +56,11 @@ for line in deseq_subset:
         eggnog_id = eggnog_array[egg_inx][0]
 
     if deseq_id == eggnog_id and eggnog_array[egg_inx][12] != '':
-        combined.append([deseq_id, line[6], eggnog_array[egg_inx][11], eggnog_array[egg_inx][12]])
+        combined.append([deseq_id, line[6], line[2], eggnog_array[egg_inx][11], eggnog_array[egg_inx][12]])
         egg_inx += 1
 
+combined = sorted(combined, key=lambda x: x[2])
 
-filter_comb = [line for line in combined if line[2] not in ['A', 'B', 'C', 'J', 'K', 'L', 'M', 'P', 'S', 'Z']]
-filter_comb = sorted(filter_comb, key=lambda x: x[1])
-for line in filter_comb:
-    print line
-
-
-print len(deseq_subset)
-print len(combined)
-print len(filter_comb)
-
-writer = csv.writer(open("H:/Dokument/durian-analysis/analyses/significant_genes.csv", 'wb'))
+writer = csv.writer(open("H:/Dokument/durian-analysis/analyses/significant_genes_foldchange.csv", 'wb'))
 for line in combined:
     writer.writerow(line)

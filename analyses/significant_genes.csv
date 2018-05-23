@@ -1,558 +1,558 @@
-0.1,2.65027263429915e-05,L,ATP-dependent DNA helicase
-1.0,1.2248729022652e-19,S,4F5 protein family
-1.1,0.026205582928165,T,LRR receptor-like serine threonine-protein kinase FEI
-1.3,0.00624925017912589,M,Glycosyl transferases group 1
-1.5,0.0040895453250524,S,Pentatricopeptide repeat-containing protein At4g19440
-2.0,0.00931745074185293,M,Pectinacetylesterase
-2.1,0.0127056426085618,M,"pectinacetylesterase domain containing protein, expressed"
-2.12,1.71242673448144e-07,S,Guanine nucleotide exchange factor
-2.18,0.0193815026873128,U,Pfam:FFD_TFG
-2.9,0.0387631592066513,O,zinc finger
-3.11,0.0335540411848676,S,F-box protein
-3.12,0.0020818436966519,U,"The coatomer is a cytosolic protein complex that binds to dilysine motifs and reversibly associates with Golgi non- clathrin-coated vesicles, which further mediate biosynthetic protein transport from the ER, via the Golgi up to the trans Golgi network. Coatomer complex is required for budding from Golgi membranes, and is essential for the retrograde Golgi-to-ER transport of dilysine-tagged proteins (By similarity)"
-3.13,2.95634317789962e-05,K,domain-containing protein
-3.4,1.15308459990286e-12,Q,carotenoid cleavage dioxygenase 4
-3.7,4.54810887043516e-05,F,Ectonucleoside triphosphate diphosphohydrolase
-3.8,5.29341421395844e-30,Q,Abscisic acid 8'-hydroxylase
-4.13,2.38211928072014e-08,D,Mps one binder kinase activator-like
-4.6,1.31924010209513e-11,S,methyltransferase
-5.1,3.41502520929225e-06,S,Isoflavone reductase
-5.11,0.00322859929134908,T,Disease resistance protein
-5.12,1.19919283882039e-11,T,Disease resistance protein
-5.19,4.43657538415456e-19,O,cysteine protease inhibitor
-5.4,0.000824311521868823,K,Myb family transcription factor
-5.7,2.69782264332349e-06,M,LrgB-like family
-6.1,0.000805810587202821,S,Inherit from euNOG: defense response
-6.12,0.00594342929708348,I,Phosphomevalonate
-6.14,0.00116170893952115,K,IWS1 C-terminus family protein
-6.17,6.85078385072879e-12,G,cellulose synthase-like
-6.5,4.13519178543006e-05,U,Vacuolar protein sorting-associated protein
-6.8,0.0361229366884475,S,Protein of unknown function (DUF760)
-7.1,1.94874962973921e-05,"G, M",NAD dependent epimerase/dehydratase family
-7.5,0.00486834240640157,S,las1-like family
-7.9,1.08498150149342e-41,S,jumonji domain protein
-8.0,0.0195725381482354,S,plastid-lipid-associated protein 3
-8.1,7.73191673553896e-05,S,SNARE associated Golgi protein
-8.15,7.28613074902712e-06,S,RNA recognition
-8.4,0.0182115054682944,U,syntaxin
-9.13,8.46355835181477e-08,S,zinc-binding protein
-9.2,0.000443352543560692,S,Endoplasmic reticulum-based factor for assembly of V-ATPase
-10.12,2.48632118839111e-06,C,mitochondrial carnitine acylcarnitine carrier-like
-10.14,1.84954017075061e-15,S,PHD
-10.2,2.55201958024381e-06,O,ubiquitin carboxyl-terminal hydrolase
-10.5,2.72008317077852e-09,K,Transcription factor
-10.6,0.00478087528266736,S,VQ motif
-11.15,0.00549577205468014,T,leucine-rich repeat protein
-11.16,0.000133108874067608,S,NAC domain containing protein
-11.3,7.18425645951238e-06,O,MND1-interacting protein
-11.6,0.00310091475832635,P,Uncharacterized protein family (UPF0051)
-12.0,6.76669196224343e-13,Q,Cytochrome p450
-12.3,0.00868168349420255,P,Nitrate transporter
-13.11,1.141299795879e-05,K,Two-component response
-13.16,4.43364077866499e-05,G,expansin-like
-13.17,0.00785150114071229,U,dynamin-related protein
-13.3,2.4221209425762e-39,O,heat shock protein
-13.5,0.0234240860503708,S,Pentatricopeptide repeat-containing protein
-13.6,2.85543993074304e-05,S,Haloacid dehalogenase-like hydrolase family protein
-13.8,0.00679030242600522,Q,S-norcoclaurine synthase 1-like
-13.9,0.0362159965673421,U,"type I inositol-1,4,5-trisphosphate 5-phosphatase"
-14.12,6.43871336280723e-26,S,Invertase pectin methylesterase inhibitor
-14.14,1.29380275964706e-07,O,ATP-dependent serine protease that mediates the selective degradation of misfolded and unassembled polypeptides in the peroxisomal matrix. Necessary for type 2 peroxisome targeting signal (PTS2)-containing protein processing and facilitates peroxisome matrix protein import (By similarity)
-14.6,0.00662886373928656,S,F-box domain
-14.8,0.00439693217437412,C,atp synthase
-15.0,1.36828613078443e-06,O,RING
-15.1,1.39562227848722e-06,S,Protein of unknown function (DUF581)
-15.2,0.000222887721761164,T,Protein of unknown function (DUF1162)
-15.3,0.0188640337759379,S,Endoribonuclease XendoU
-15.5,4.90224124763014e-05,J,60S ribosomal protein L37a
-16.1,0.000960557972839706,S,MORN
-16.7,1.07236163679168e-05,"D, K, T",casein kinase II subunit
-17.1,9.3045243658839e-16,T,serine threonine-protein kinase
-17.8,0.00753929132083688,A,SpoU rRNA Methylase family
-18.3,0.00177922849756854,S,ankyrin repeat family protein
-18.9,2.06912416994168e-05,"O, T",COP9 signalosome complex subunit
-19.16,0.000211753575572636,S,RNA-binding protein
-19.3,2.29157411894014e-06,P,Major Facilitator Superfamily
-19.5,0.0212265642525975,U,gtp-binding protein
-20.11,8.2197687109425e-11,K,Transcription factor
-20.5,1.25800023067079e-06,P,plasma membrane
-21.0,5.98387058286256e-05,G,Palmitoyl-protein thioesterase
-21.1,2.04723089711117e-05,V,phosphatase
-21.11,0.00018434698093454,K,homeobox-leucine zipper protein
-21.13,0.000728735255307045,S,Protein of unknown function (DUF1639)
-21.5,1.25566858446827e-09,K,MYB family transcription factor
-21.9,9.416791120512e-05,A,Inherit from KOG: domain containing E3 ubiquitin protein ligase
-22.1,3.36107690580671e-17,"G, M, W",exostosin family
-22.2,9.39318802252463e-05,S,Pfam:DUF124
-22.5,9.38409829596639e-05,J,Ribosomal protein L15
-22.7,0.00534749084756691,G,formyltetrahydrofolate
-22.9,0.0160775591899041,S,Agenet domain
-23.0,0.000143444819826446,"O, W",metalloendoproteinase 1-like
-23.1,0.0317275490108234,S,histidine triad
-23.11,0.0432720476361843,O,aspartyl protease family protein
-23.16,1.94874962973921e-05,G,glycosyl transferase 8 domain containing protein
-23.18,0.0110695447765898,O,Protein arginine n-methyltransferase
-23.6,1.17892642465629e-29,S,ZnF_U1
-24.1,1.28724142236706e-08,C,L-lactate dehydrogenase
-24.15,0.0119234688915672,S,Pfam:YbaK
-24.7,0.000450339794477123,Z,autophagy-related protein 8f-like
-25.7,0.0132734142373466,I,acidPPc
-25.9,0.00363730319871031,F,Adenine phosphoribosyltransferase
-26.4,0.00676682655808407,G,Removes the phosphate from trehalose 6-phosphate to produce free trehalose. Trehalose accumulation in plant may improve abiotic stress tolerance
-26.6,1.94874962973921e-05,Q,monocopper oxidase-like protein
-26.9,0.0147505271372349,"G, M, W",xyloglucan galactosyltransferase
-27.1,0.000746034660233846,O,vacuolar-processing enzyme
-27.11,0.0131682761487451,I,UPF0551 protein C8orf38 homolog
-27.12,4.31992028133189e-05,O,heat shock protein
-27.13,0.0141013873777979,J,elongation factor G
-27.14,0.0235315047214391,J,elongation factor G
-27.15,2.32230939220145e-48,S,Plant invertase/pectin methylesterase inhibitor
-27.2,0.000304968349612002,S,Auxin-responsive family
-27.5,6.7031839682387e-10,"O, T",FAM10 family protein At4g22670-like
-28.0,8.81430950411626e-22,Q,cytochrome P450
-28.1,3.54338101635156e-20,Q,cytochrome P450
-29.17,0.00903196656641892,S,S-acyltransferase
-29.4,0.0388870975599549,M,UDP-D-glucuronate 4-epimerase 5
-29.8,2.86312273237555e-05,S,Protein of unknown function (DUF1442)
-30.1,0.000132708324231662,L,photo-lyase
-30.11,0.0021285698229982,S,ACT domain
-30.6,0.0138705791755049,I,methylsterol
-30.7,0.0134666017032833,L,DNA repair protein
-30.9,5.254411877075e-08,S,"AT hook motif domain containing protein, expressed"
-31.16,0.0497404383523038,T,Aminotransferase
-31.18,0.0080155563591684,G,phosphate phosphate translocator
-31.6,0.0437812261518978,S,TVP38 TMEM64 family membrane protein
-31.7,0.00991202458515691,T,LRR receptor-like serine threonine-protein kinase
-31.8,1.06483461455795e-05,S,Cell cycle regulated microtubule associated protein
-32.0,0.00214811163039691,Q,cytochrome P450
-32.11,2.04772116844247e-12,P,copper chaperone
-32.15,0.00696147108078567,H,anthocyanidin synthase
-33.0,0.028532422206063,G,"atexpa7, exp7, atexp7, athexp alpha 1.26, expa7 atexpa7 (arabidopsis thaliana expansin a7)"
-33.1,0.0474602005589981,S,Protein of unknown function (DUF1191)
-33.14,1.68727695070804e-05,I,hydroxymethylglutaryl-CoA synthase
-33.5,5.15759911264839e-06,K,Homeobox protein knotted-1-like
-33.6,5.06507666658595e-16,I,Hydrolyzes glycerol-phospholipids at the terminal phosphodiesteric bond (By similarity)
-33.8,8.05785305763261e-21,S,Senescence-inducible chloroplast stay-green protein
-34.2,4.26432602029427e-12,P,SPX domain-containing membrane protein
-34.4,5.35814718448489e-05,U,RanBP1 domain
-34.7,1.6532374070224e-53,K,AP2
-35.0,1.28807830736437e-12,K,Transcription factor
-35.2,1.1799265529366e-05,V,Multidrug and toxin extrusion protein
-35.8,6.40174587474173e-07,S,F-Box protein
-36.1,1.06613826370615e-18,T,inactive rhomboid protein 1-like
-36.11,3.90681654642889e-05,S,Inherit from euNOG: C2
-36.12,0.00259163067768433,K,heat stress transcription factor
-36.13,2.69436818772125e-06,S,"protein phosphatase inhibitor 2 containing protein, expressed"
-36.14,2.82351818478426e-06,M,UDP-glucose
-36.2,0.000447526624267174,O,E3 ubiquitin-protein ligase
-36.4,0.0294417427813432,S,thaumatin-like protein
-37.0,7.38698233480777e-40,S,thaumatin-like protein
-37.1,9.09938237847092e-07,S,THN
-37.2,0.00638232625114732,S,thaumatin-like protein
-38.1,0.0178392359222499,S,CAP10
-38.13,2.25122508296219e-15,S,Multiple C2 and transmembrane domain-containing protein
-38.4,1.48941246286912e-27,P,copper-transporting ATPase
-39.2,1.7853632365068e-13,H,glutamate--cysteine ligase
-39.3,0.029660983561185,K,"Transcription factor S-II (TFIIS), central domain"
-39.5,0.0437258119080492,S,Uncharacterized conserved protein (DUF2365)
-39.7,4.99199535346643e-06,S,PHD finger protein MALE
-40.13,0.00430483196159718,O,ubiquitin-conjugating enzyme
-40.4,6.96598236408632e-08,G,Aquaporin
-40.6,0.00105766116033425,T,"- STE kinases include homologs to sterile 7, sterile 11 and sterile 20 from yeast, expressed"
-40.7,8.83707731986814e-08,T,"- STE kinases include homologs to sterile 7, sterile 11 and sterile 20 from yeast, expressed"
-41.1,0.00073640898731084,L,DNA repair helicase
-41.3,0.000285811536199337,S,PLAC8 family
-41.4,1.75201979177321e-10,O,zinc finger
-41.5,0.0260747162728408,S,expressed protein
-42.1,0.000244924711617082,S,BTB POZ domain-containing protein
-42.11,3.40978764249504e-05,G,"Protein of unknown function, DUF604"
-43.0,3.57091669511713e-22,O,heat shock protein
-43.1,2.58413113801e-12,O,heat shock protein
-43.17,4.77549407315024e-05,S,"WD domain, G-beta repeat"
-43.4,9.75163067535265e-18,S,Protein of unknown function (DUF793)
-43.6,0.0169075979199651,P,Heavy-metal-associated domain
-43.8,4.4539912387859e-05,"A, D",G-patch domain
-43.9,0.026205582928165,K,WRKY
-44.2,1.63083718004044e-16,"P, Q",respiratory burst oxidase
-44.3,5.57228526099859e-18,S,Late embryogenesis abundant protein
-44.4,3.49792062263427e-15,S,Late embryogenesis abundant protein
-44.5,0.0479044164955258,S,Late embryogenesis abundant protein
-45.0,0.000220458997394314,S,Late embryogenesis abundant protein
-45.12,2.25213413083848e-06,P,"atkt1, atkt1p, atkup1, kup1 atkt1 (potassium transporter 1)"
-45.7,0.000112606943519536,S,"harpin-induced protein 1 domain containing protein, expressed"
-46.1,0.0215071504798161,P,Cation H( ) antiporter
-46.8,0.0316641000961027,S,disease resistance response protein 206-like
-47.1,0.00106793158214558,S,Retrotransposon protein
-47.13,0.0327582880387996,J,Translation initiation factor
-47.3,0.00528351007032549,S,glyoxalase bleomycin resistance protein dioxygenase
-48.0,0.0472920002761702,G,Aldose 1-epimerase
-48.3,1.44865423567082e-07,K,Transcription factor
-48.4,0.0316036890572361,T,protein kinase kinase kinase
-48.9,0.000953590772436318,J,Protein SUPPRESSOR OF PHYA-105
-49.16,0.000661678937091526,"U, Y",Protein of unknown function (DUF3593)
-49.2,2.30617261288281e-14,S,"Inherit from NOG: keratin, type II cytoskeletal"
-49.3,0.0166241842800942,S,"Inherit from NOG: keratin, type II cytoskeletal"
-49.4,0.00372791982847781,C,mitochondrial substrate carrier family protein
-51.5,0.000715191362430323,L,DNA primase
-51.9,3.06704622787392e-09,K,Transcription factor
-52.2,0.0132688477466493,S,Putative zinc finger in N-recognin (UBR box)
-52.4,0.00900998490134203,I,acyl-CoA synthetase
-53.4,1.36272974294478e-16,S,PH
-53.5,0.0458610053420243,F,Nucleoside diphosphate kinase
-53.7,4.95601731970659e-27,M,UDP-glucose 4-epimerase
-54.1,0.00111754740248048,H,3-oxoacyl- acyl-carrier-protein synthase
-54.12,3.4144534660632e-05,O,phosphatidylinositol 3- and 4-kinase family protein
-55.3,0.000900038733276393,K,"transcription, DNA-dependent"
-55.5,0.000498576020598254,K,cyclin-dependent kinase
-56.3,1.62120275881695e-08,G,"alpha,alpha-trehalase (EC 3.2.1.28)"
-56.5,0.00277285302439071,J,Mitochondrial small ribosomal subunit Rsm22
-57.0,2.34449769920885e-06,S,WD-40 repeat family protein
-57.13,0.0167826721276341,S,BTB POZ domain-containing protein At3g05675-like
-57.19,3.74152477680192e-06,G,Aldolase
-57.4,0.0130834131964384,S,Zinc finger HIT domain-containing protein
-58.2,0.0478680154524694,S,UPF0160 protein MYG1
-58.3,0.00961289427251611,O,Bacterial dnaA  protein
-58.6,0.0134146409148117,P,transporter
-59.0,9.02832015504958e-05,K,Mediator of RNA polymerase II transcription subunit
-59.1,0.0134353678620645,K,homeobox-leucine zipper protein
-60.14,1.92390767087499e-27,S,Inherit from euNOG: heavy-metal-associated domain-containing protein
-60.2,2.35968594937171e-10,S,Remorin family
-60.5,2.9230235201658e-07,T,low-temperature-induced 65
-60.7,0.0247382944331971,S,CAP10
-61.0,0.0265419979999375,Z,"Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain (By similarity)"
-62.8,0.0113177990420078,T,U-box domain-containing protein
-63.0,5.01874973433174e-07,S,zinc finger
-64.1,0.00440657027064585,P,transporter
-65.1,0.000128758804183236,A,rRNA 2'-O-methyltransferase fibrillarin
-65.5,5.46000933590206e-05,S,BAHD acyltransferase
-65.6,7.11857687305248e-09,S,UPF0496 protein
-65.7,6.26280747047197e-08,S,C2
-66.1,0.00868168349420255,J,Prolyl-tRNA
-66.5,2.94170814726306e-12,S,Pfam:DUF862
-67.1,5.34333059455996e-11,I,Beta-carotene hydroxylase
-68.7,0.0213771678891136,P,Heavy metal-associated domain containing protein
-68.9,1.06259158952244e-06,K,transcription factor
-69.1,0.00153507251281305,L,Herpesviridae UL52/UL70 DNA primase
-69.3,0.0256151181969399,E,Ornithine cyclodeaminase/mu-crystallin family
-69.8,5.33914374972183e-06,C,ETC complex I subunit conserved region
-70.2,0.00764455409618968,U,"Sedlin, N-terminal conserved region"
-70.6,7.27051878451855e-09,S,Late embryogenesis abundant protein
-70.9,0.0173440364275287,S,membrane-associated kinase regulator
-71.0,0.00167287384397289,U,Reticulon-like protein
-71.2,0.00133832290233689,O,AAA-type ATPase family protein
-72.0,0.0497404383523038,L,Timeless protein C terminal region
-72.1,0.0206928018394154,L,Timeless protein
-72.12,1.19919283882039e-11,G,acidic endochitinase-like
-73.1,0.0484691886518958,S,Protein of unknown function (DUF3143)
-73.9,2.4422996563583e-05,S,Proline-rich cell wall
-74.0,8.05398386286986e-05,G,beta-glucosidase
-74.1,0.00171359867047893,P,SLAC1 homologue 2
-74.2,2.88929428726904e-14,S,myosin ID heavy chain-like
-75.3,4.26615335134689e-07,K,WRKY transcription factor
-76.2,0.00016706396383439,A,polypyrimidine tract-binding protein
-76.4,0.00814741475205653,O,ATP-dependent zinc metalloprotease FtsH
-77.0,1.24437974848674e-05,P,cyclic nucleotide-gated ion channel
-77.7,2.73196422491911e-05,E,spermidine synthase
-78.11,1.00260452019642e-05,S,Protein of unknown function (DUF1674)
-81.1,0.00664512180235531,O,phosphatidylinositol 3- and 4-kinase family protein
-82.3,1.52983756908876e-05,O,E3 ubiquitin-protein ligase
-82.4,0.0434208562973934,O,ATP-dependent Clp protease ATP-binding subunit
-83.1,0.00134749437174068,Z,IQ-domain
-84.1,0.0417499903233542,A,KH domain-containing protein
-84.5,0.0178392359222499,"U, Y",importin subunit
-84.6,0.00219231167107377,"T, U",Calcium-binding EF hand family protein
-85.1,0.00679030242600522,S,dof zinc finger protein
-85.3,0.00100543764414262,S,thylakoid lumenal 17.4 kDa protein
-85.4,8.30900830704664e-06,S,"WD domain, G-beta repeat"
-86.0,4.18036398530699e-07,S,impaired sucrose induction
-86.5,0.0418426544330745,S,Ubox
-87.1,1.1966971446745e-14,P,metal-nicotianamine transporter
-87.2,3.06333301295629e-05,C,Cytochrome b5
-87.5,0.00173495600126074,O,AAA-type ATPase family protein
-88.2,0.0284989137709786,G,6-phosphogluconolactonase
-90.5,1.70857290463291e-17,T,CDPK-related protein
-94.3,0.00251561874256829,T,Guanine nucleotide binding protein (G protein) alpha
-99.6,0.000880705962370285,S,Ternary complex factor MIP1
-103.6,0.0396336438953514,"M, O, T",Protein sel-1 homolog
-103.8,0.000451078174729416,G,"Converts alpha-aldose to the beta-anomer. It is active on D-glucose, L-arabinose, D-xylose, D-galactose, maltose and lactose (By similarity)"
-105.2,0.00214811163039691,T,inactive receptor kinase
-116.1,0.00505191867443509,S,Inherit from KOG: serine threonine kinase 11 interacting protein
-118.4,5.18654605270506e-09,T,calcium-binding protein
-119.0,4.6526129173331e-06,U,RAB
-128.1,2.69856602349309e-11,T,LRR receptor-like serine threonine-protein kinase
-128.2,0.0351457242066834,G,beta-glucosidase
-129.3,0.0039750249414903,O,Mitotic-spindle organizing protein
-129.4,0.00696147108078567,S,membrane steroid-binding protein
-131.1,0.00256481698102166,S,glycosyltransferase
-131.11,0.00159462582114291,V,Mate efflux family protein
-131.4,0.00114756417383829,E,Ankyrin Repeat
-135.4,8.26601139903552e-10,K,NF-X1-type zinc finger protein
-135.7,1.23394616321845e-49,O,"zinc finger, C3HC4 type domain containing protein, expressed"
-136.0,0.000126062230784353,U,nonspecific lipid-transfer protein
-137.2,2.06061616367132e-09,T,serine threonine-protein kinase
-137.3,0.000271298453033172,T,receptor-like protein kinase
-137.4,1.73104594944025e-10,T,serine threonine-protein kinase
-138.0,0.00586412158867485,S,calmodulin binding
-139.2,0.00282499425776956,T,Cysteine-rich receptor-like protein kinase
-139.5,0.00054572400669655,O,AMSH-like ubiquitin thiolesterase
-140.1,2.30546140507715e-05,J,40s ribosomal protein
-142.0,0.00212072629905915,S,Plant protein of unknown function (DUF639)
-142.2,0.000101835590879706,S,C2 domain
-144.4,5.30278246393084e-07,C,"Accessory subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I), that is believed not to be involved in catalysis. Complex I functions in the transfer of electrons from NADH to the respiratory chain. The immediate electron acceptor for the enzyme is believed to be ubiquinone (By similarity)"
-144.6,2.29227474273497e-11,C,"Accessory subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I), that is believed not to be involved in catalysis. Complex I functions in the transfer of electrons from NADH to the respiratory chain. The immediate electron acceptor for the enzyme is believed to be ubiquinone (By similarity)"
-146.3,4.74380129734379e-07,A,Inherit from KOG: PRP4 pre-mRNA processing factor 4 homolog B (yeast)
-147.5,0.0351457242066834,T,serine threonine-protein phosphatase 2A 65 kDa regulatory subunit A
-147.7,0.000101835590879706,Q,Cytochrome p450
-147.8,0.00836788949738749,Q,cytochrome P450
-148.2,0.000340612669581532,O,aspartic proteinase
-149.7,0.000103479590539376,S,"Protein of unknown function, DUF288"
-150.0,7.22043666502947e-06,B,Histone deacetylase
-151.0,8.43759916033517e-08,O,Transmembrane Fragile-X-F protein
-153.1,0.0259967274294753,K,transcription initiation factor TFIID subunit 2-like
-155.4,0.0305379976688557,J,40s ribosomal protein
-156.0,1.39894199845404e-05,S,"phosphate-induced protein 1 conserved region domain containing protein, expressed"
-156.7,0.0244227417050458,O,mitochondrial intermediate
-156.9,0.000998413054268759,K,myb domain protein
-157.2,1.81672084304654e-07,Q,Cytochrome p450
-158.7,0.00201311910956386,P,nucleotide-sensitive chloride conductance regulator
-160.1,4.4539912387859e-05,O,hypersensitive-induced response protein
-160.2,0.00206287734523138,O,Peptidyl-prolyl cis-trans isomerase
-160.3,0.00594342929708348,G,enolase (EC 4.2.1.11)
-161.3,0.000108797613953385,A,cleavage and polyadenylation specificity factor subunit
-161.6,0.0202601957912747,S,Pfam:DUF231
-161.7,4.69779904747372e-05,S,Pfam:DUF231
-162.14,0.0309385632686412,P,) efflux antiporter
-162.3,8.84322466971049e-13,S,domain--containing protein
-163.1,3.63438962305067e-07,S,domain--containing protein
-168.1,0.0417499903233542,G,phosphoglucomutase EC 5.4.2.2
-168.2,7.22043666502947e-06,G,phosphoglucomutase EC 5.4.2.2
-170.0,0.00663400006930679,G,fructokinase EC 2.7.1.4
-171.9,2.32716483490385e-08,Q,Alcohol dehydrogenase GroES-like domain
-172.1,0.0121036490212951,T,calcium-dependent protein kinase
-172.6,4.47781142158633e-19,K,binding factor
-172.7,3.74180102472985e-07,K,Transcription factor
-173.1,0.0190680164993712,T,TraB family
-174.6,0.000521926209089146,A,Arginine serine-rich-splicing factor
-175.1,0.00503956580206337,T,BAG domain-containing protein
-175.2,0.0490599620119421,E,dihydrodipicolinate reductase
-176.4,0.000856531289641869,K,homeobox-leucine zipper protein
-178.0,1.4828974181926e-06,C,reticuline oxidase-like protein-like
-178.1,2.53871358145276e-12,M,3-hexulose-6-phosphate isomerase-like
-178.11,0.0211579655920036,S,membrane steroid-binding protein
-180.4,4.95706892738576e-08,A,Ataxin-2 C-terminal region
-182.0,0.0198316659830168,M,Granule-bound starch synthase
-182.1,0.00664512180235531,M,Granule-bound starch synthase
-182.3,0.00789227990943817,S,Avr9 Cf-9 rapidly elicited protein 65
-183.0,0.0306518343848182,J,Ribosomal protein
-186.14,0.00383246676162669,Q,Cinnamyl alcohol dehydrogenase
-186.3,1.82755602643238e-11,"U, Y",Nuclear pore complex protein
-186.4,0.034363719525116,J,60S ribosomal protein
-186.9,0.00145659088544275,S,auxin-induced protein
-187.0,7.35009179154277e-05,Z,Actins are highly conserved proteins that are involved in various types of cell motility and are ubiquitously expressed in all eukaryotic cells
-187.5,0.00130429228195462,K,SANT
-188.2,0.000134676053933072,G,Aquaporin
-188.3,1.81067109955558e-12,S,response to low sulfur
-188.5,0.000134508082821577,U,Autophagy-related protein 13
-189.0,5.81427120045024e-06,S,"Protein of unknown function, DUF599"
-189.13,5.31290544548997e-18,S,caffeic acid
-189.14,0.0417499903233542,C,Band 7 family protein
-189.17,0.0273842570715609,Q,"oxidoreductase, 2OG-Fe(II) oxygenase family protein"
-189.5,0.00841835827730641,S,nac domain
-190.0,3.30762903732932e-06,U,transparent testa glabra
-190.13,8.26813681700333e-13,S,Avr9 Cf-9 rapidly elicited protein 65
-191.0,0.015397110610601,A,RNA-binding protein
-191.4,4.14533250789306e-12,O,heat shock protein
-192.3,1.65952573040418e-05,P,cyclic nucleotide-gated ion channel 20
-192.4,0.00133172320604575,U,"Potassium voltage-gated channel, subfamily H (Eag-related), member"
-192.5,6.59767732498649e-09,U,"Potassium voltage-gated channel, subfamily H (Eag-related), member"
-194.1,1.32444807236939e-05,S,Inherit from COG: UPF0174 protein
-194.3,0.00133620417251948,C,Berberine and berberine like
-195.1,7.16247747456394e-05,K,nucleic acid binding transcription factor zinc ion binding
-196.2,4.05866523593666e-06,T,"Calmodulin mediates the control of a large number of enzymes, ion channels and other proteins by Ca(2 ). Among the enzymes to be stimulated by the calmodulin-Ca(2 ) complex are a number of protein kinases and phosphatases"
-199.1,0.000904589488577394,S,heme-binding protein
-201.2,0.00142279433255731,A,Inherit from strNOG: FKBP12-interacting protein of 37
-205.1,0.00880170313395343,O,Tim17/Tim22/Tim23/Pmp24 family
-205.9,0.00368060016499805,P,Protein of unknown function (DUF525)
-206.2,0.0024000207967561,P,boron transporter
-207.4,0.0404254243147611,J,ribosomal protein
-207.5,0.0437812261518978,S,zinc finger protein
-208.3,3.77460708942128e-06,H,1-deoxy-D-xylulose 5-phosphate reductoisomerase
-208.4,0.0361229366884475,U,peroxisomal membrane protein PEX14-like
-209.0,0.00679030242600522,P,carbonic anhydrase
-209.2,2.1889687214857e-05,P,carbonic anhydrase
-210.6,0.0040308423524166,J,Exosome complex
-211.6,0.0387441849127027,S,CASP-like protein
-212.0,1.89150744322792e-05,K,HLH
-212.2,7.02074903719532e-05,O,DSS1/SEM1 family
-213.2,9.73776477495946e-110,S,U-box domain-containing protein
-213.3,1.10179219125957e-07,C,Aldehyde dehydrogenase
-214.1,0.0104350418928452,G,"alpha,alpha-trehalose-phosphate synthase UDP-forming"
-215.0,0.000143444819826446,O,Hypoxia induced protein conserved region
-215.1,9.75163067535265e-18,O,protease Do-like 9-like
-215.2,3.06704622787392e-09,O,ubiquitin-conjugating enzyme E2
-215.3,0.000538202884935695,S,F-box associated domain
-215.5,0.0071021352583851,S,EamA-like transporter family
-215.8,1.70455546202398e-05,P,nucleobase-ascorbate transporter
-216.0,4.39724426375325e-09,"T, Z",Cysteine and glycine-rich protein 1
-216.1,1.81694802453516e-05,S,"Protein of unknown function, DUF393"
-216.2,0.00107441747291879,S,"Protein of unknown function, DUF393"
-216.5,0.0215071504798161,S,calmodulin-binding protein
-216.6,0.000118150003112516,S,calmodulin-binding protein
-216.7,0.00104391614903599,S,Gibberellin regulated protein
-216.8,5.05311724101823e-06,L,base excision DNA repair
-217.2,0.000423682781258163,L,Inherit from KOG: DNA crosslink repair
-218.5,2.39723697687581e-08,S,enhanced disease susceptibility 1
-219.1,6.24597876568689e-06,U,Exportin 1-like protein
-220.12,0.045993722103606,S,WW domain binding protein 11
-220.15,3.5182138136106e-05,S,Nodulin-like
-220.4,5.32691108534065e-08,G,"Beta-1,3-galactosyltransferase"
-220.6,0.00584480204632873,K,Transcription factor
-220.7,0.00364909025912908,Z,Dynein light chain type 1
-221.1,5.34930361933769e-05,T,Calcium-dependent protein kinase 30
-221.2,7.22043666502947e-06,O,DnaJ heat shock protein
-221.3,2.77057944766699e-27,P,plasma membrane
-221.6,0.00753929132083688,S,Pentatricopeptide repeat-containing protein
-221.7,3.04391175241186e-07,P,Nitrate transporter
-222.5,0.026205582928165,O,hypersensitive-induced response protein
-222.7,6.36061514468248e-08,K,Homeobox associated leucine zipper
-223.11,0.0280573936913069,E,Dehydrogenase
-224.5,9.29649478683069e-08,Q,ABC transporter A family member
-225.2,3.35613382749619e-09,S,Kelch repeat-containing F-box family protein
-225.3,1.43716016457828e-05,"D, U",RINT-1 / TIP-1 family
-225.4,0.00043430582243936,"D, U",RINT-1 / TIP-1 family
-225.5,7.38986035046976e-16,S,F-box kelch-repeat protein
-226.1,0.0380446766260292,T,resistance protein
-226.5,0.00680195707346986,Z,"microtubule-associated protein, RP EB family"
-226.9,1.18502996777895e-08,U,HVA22-like protein
-227.0,0.010834619363292,S,FAR1 DNA-binding domain
-227.15,0.00124042290902191,J,Eukaryotic peptide chain release factor subunit
-227.17,9.79741220752857e-13,J,60S ribosomal protein
-229.0,0.0169413534612635,A,zinc finger
-229.7,0.00662886373928656,C,Malate dehydrogenase
-230.2,5.33914374972183e-06,T,EF hand family protein
-230.3,0.0010216782356929,H,Biotin/lipoate A/B protein ligase family
-230.5,9.89708968137696e-36,S,NAC domain-containing protein
-230.8,0.0313490679125885,J,loosening and extension of plant cell walls by disrupting non-covalent bonding between cellulose microfibrils and matrix glucans. No enzymatic activity has been found
-231.11,0.0441982582297266,G,galactoside 2-alpha-L-fucosyltransferase-like
-231.14,0.000107891950073468,"G, M",glycosyltransferase
-231.2,1.71841456446303e-06,O,Peptidyl-prolyl cis-trans isomerase
-231.5,3.78159364739425e-05,L,exonuclease
-231.6,0.0015798730744851,L,exonuclease
-232.1,3.33307061738346e-05,O,Ring zinc finger protein-like
-232.15,0.0151709151558613,J,eukaryotic translation initiation factor
-232.6,4.54837491696041e-10,T,LRR receptor-like serine threonine-protein kinase
-232.8,0.00435932105139937,J,40s ribosomal protein
-233.0,0.000786082223002605,S,Plant calmodulin-binding domain
-233.1,0.00289009590787166,G,heparanase-like protein
-233.11,1.42426822856007e-11,U,SNAP25 homologous protein
-233.16,4.63670816804372e-09,G,Udp-glucose 6-dehydrogenase
-234.2,0.00299218754353882,I,Diacylglycerol kinase
-234.3,6.93294348453951e-06,J,40s ribosomal protein
-235.2,5.54882980248675e-72,O,heat shock protein
-235.6,0.000214012023598882,C,mitochondrial glycoprotein
-236.14,0.00800071876799351,C,Glycerophosphoryl diester
-236.16,0.00394175736773774,T,protein)-like
-237.1,0.00299218754353882,S,Pentatricopeptide repeat-containing protein
-237.2,0.000273315262938304,S,cobra-like protein
-237.7,2.4493442464587e-10,S,"CONTAINS InterPro DOMAIN s Galactose oxidase kelch, beta-propeller (InterPro IPR011043), Kelch repeat type 1 (InterPro IPR006652), Kelch repeat type 2 (InterPro IPR011498), Kelch-type beta propeller (InterPro IPR015915)"
-239.8,2.94170814726306e-12,C,"ADP,ATP carrier protein"
-240.1,2.35938174138614e-07,S,DUF246 domain-containing protein
-240.2,0.04946412629005,"C, G",UDP-Glycosyltransferase
-240.5,0.0361229366884475,S,WD repeat and HMG-box DNA-binding protein
-240.7,7.35009179154277e-05,K,transcription factor
-240.8,0.0218324261097892,"C, G",UDP-Glycosyltransferase
-241.0,0.0269399787149117,K,two-component response regulator
-242.2,2.76248520462208e-06,"T, Z",uridine-cytidine kinase C-like
-242.8,0.000195061185242843,A,H ACA ribonucleoprotein complex subunit
-243.0,0.0027217859871935,S,2-aminoethanethiol dioxygenase-like
-243.11,5.16779091657752e-05,S,Protein of unknown function (DUF3353)
-243.12,0.00435709762922354,I,acyl-activating enzyme 17
-243.13,3.89719421787932e-07,I,acyl-activating enzyme 17
-243.14,0.0296962018244029,T,disease resistance
-243.15,0.0458610053420243,P,phospholipid-transporting ATPase
-244.11,8.10118723180361e-07,Q,cytochrome P450
-244.14,0.000273364192579658,Q,cytochrome P450
-244.3,0.00192323893675124,T,serine threonine-protein kinase
-244.6,2.43458315182432e-05,G,Nitrate transporter
-245.3,0.0346480841678346,Q,cytochrome P450
-245.8,0.0111959365879138,Q,cytochrome P450
-246.14,0.00044190448177755,K,ZnF_TAZ
-246.15,1.76909647975573e-25,O,protein-L-isoaspartate O-methyltransferase
-246.16,0.0080142648208044,S,Pfam:DUF2008
-246.2,0.000115392343319415,O,E3 ubiquitin-protein ligase
-246.4,0.0330067177417498,A,31 kDa ribonucleoprotein
-246.6,1.97978265108528e-16,T,leucine-rich repeat receptor-like serine threonine tyrosine-protein kinase
-246.9,1.16084559899142e-08,S,abhydrolase domain-containing protein
-247.12,0.0399894331773555,S,zinc finger CCCH domain-containing protein
-247.17,0.00415277015542809,S,Ribosomal protein S21
-247.21,5.14039381696031e-05,O,RING
-247.4,0.0330067177417498,T,MA3 domain-containing protein
-248.17,0.0275293620054431,K,transcription factor
-248.5,1.49683329068514e-11,S,Transferase family
-249.0,0.00978378512616754,I,4-coumarate--CoA ligase-like
-249.1,4.74380129734379e-07,I,4-coumarate--CoA ligase-like
-249.2,9.7863921721487e-18,S,WD repeat-containing protein 74-like
-249.5,2.27833401389427e-07,E,aspartyl
-249.7,0.000222887721761164,I,cycloeucalenol
-249.9,2.70262226804988e-08,T,calcium-binding protein
-250.1,0.000213910374841318,K,Elongation factor
-250.6,3.32274104202591e-06,A,Inherit from KOG: Snurportin 1
-251.1,0.00155821328896775,S,Inherit from euNOG: coiled-coil domain containing 84
-251.12,0.0105868589749555,O,SecE/Sec61-gamma subunits of protein translocation complex
-251.16,0.0127056426085618,I,phospholipase
-251.22,6.38272795186373e-18,K,WRKY transcription factor
-251.7,0.0474920926815665,S,Gamma carbonic
-252.1,1.74485995073076e-06,D,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"
-252.16,0.0226228633167288,J,60S ribosomal protein
-252.8,0.0338672882514009,B,DEK C terminal domain
-252.9,0.0338672882514009,S,Omega-hydroxypalmitate O-feruloyl
-253.13,0.00480195976506843,S,armadillo beta-catenin repeat family protein
-253.5,4.43863365950063e-07,S,"Inherit from KOG: family with sequence similarity 214, member"
-254.0,0.00239147071462371,G,Glycosyl transferase family 29 protein
-254.1,0.0351457242066834,J,Polynucleotide adenylyltransferase family protein
-254.1,2.39240784581013e-09,K,auxin response factor
-254.5,0.00265591922419948,K,Helix-loop-helix DNA-binding domain
-254.8,2.82351818478426e-06,C,Phosphate carrier protein
-255.16,0.0198175792143006,I,Random slug protein
-255.6,0.00108396308173709,T,may have effects in promoting growth and development. May function in membrane trafficking and in fusion of vesicles with plasma membrane
-255.7,2.91669173208702e-06,K,Transcription factor
-255.9,5.5223549778925e-24,G,Glycosyl hydrolase family 38 protein
-256.0,0.0011707841875326,"G, M, W",glucuronoxylan glucuronosyltransferase activity
-256.12,5.32691108534065e-08,O,chaperone protein
-256.15,7.90280649159872e-09,S,Flavinator of succinate dehydrogenase
-256.19,7.83554371719233e-07,K,Staphylococcal nuclease domain-containing protein
-256.21,3.02733484303236e-08,"P, Q",respiratory burst oxidase
-256.4,1.46395861560413e-05,S,Solute carrier family 25 (Mitochondrial carrier
-257.11,5.32676866305129e-39,F,Nucleoside diphosphate kinase
-257.13,0.0175333296585753,T,Serine Threonine protein kinase
-257.19,5.25294634141044e-10,T,resistance protein
-257.2,0.000438789748633635,S,Blue copper
-257.21,0.0357014076530012,T,resistance protein
-257.3,2.19750794915513e-06,"D, O",Caspase domain
-257.6,0.00635191216754581,A,Polyadenylate-binding protein
-258.13,3.86183300390332e-28,S,May have a structural role to stabilize the lipid body during desiccation of the seed by preventing coalescence of the oil. Probably interacts with both lipid and phospholipid moieties of lipid bodies. May also provide recognition signals for specific lipase anchorage in lipolysis during seedling growth
-258.4,0.015397110610601,S,Polycomb group protein EMBRYONIC FLOWER
-258.7,8.5265235577604e-15,K,ethylene-responsive transcription factor 5-like
-258.9,8.17921484046737e-18,K,transcription factor
-259.12,9.38409829596639e-05,"I, T",ceramide
-259.17,5.62516260730559e-05,G,hexose carrier protein
-260.1,0.00991202458515691,J,Ribosomal protein L15
-260.9,9.09938237847092e-07,K,RNA polymerase III RPC4
-261.3,4.48371023679852e-09,G,Inherit from COG: 2-Phosphoglycerate kinase
-261.4,5.90053927394538e-61,O,Heat Shock Protein
-261.5,2.92089160979019e-06,G,glycerol-3-phosphate transporter
-262.0,0.000236000436093424,O,E3 ubiquitin protein ligase
-262.16,0.00108806126601117,S,21 kDa protein-like
-262.4,1.26638216081893e-20,G,Removes the phosphate from trehalose 6-phosphate to produce free trehalose. Trehalose accumulation in plant may improve abiotic stress tolerance
-263.1,0.000136374306655294,S,protein DEHYDRATION-INDUCED 19 homolog
-263.1,1.56934878592997e-06,S,invertase pectin methylesterase inhibitor family protein DC
-263.11,0.0175629254811818,O,Pachytene checkpoint protein 2 homolog
-263.15,0.0359527906094195,S,ubiquitin-associated (UBA) TS-N domain-containing protein octicosapeptide Phox Bemp1 (PB1) domain-containing protein
-263.19,0.0186793459521831,S,C2 and GRAM domain-containing protein
-263.2,2.89215848957796e-17,S,PB1
-263.7,4.33673465565278e-08,T,Lectin-domain containing receptor kinase
-263.8,0.000442969855497589,S,Universal stress protein family
-263.9,0.00299135758685679,S,zinc ion binding protein
-264.0,0.00690615579898599,J,60S ribosomal protein
-264.1,0.012651707864794,Q,Copper methylamine
-264.6,0.0313490679125885,B,histone deacetylase
+0.1,2.65027263429915e-05,-1.59738630864134,L,ATP-dependent DNA helicase
+1.0,1.2248729022652e-19,3.14679790488409,S,4F5 protein family
+1.1,0.026205582928165,-1.04422856145948,T,LRR receptor-like serine threonine-protein kinase FEI
+1.3,0.00624925017912589,-2.76550212338678,M,Glycosyl transferases group 1
+1.5,0.0040895453250524,1.60491031633125,S,Pentatricopeptide repeat-containing protein At4g19440
+2.0,0.00931745074185293,-3.51027850583532,M,Pectinacetylesterase
+2.1,0.0127056426085618,-1.51370201278157,M,"pectinacetylesterase domain containing protein, expressed"
+2.12,1.71242673448144e-07,-2.8064723385045,S,Guanine nucleotide exchange factor
+2.18,0.0193815026873128,1.71577566052699,U,Pfam:FFD_TFG
+2.9,0.0387631592066513,-1.15723423247587,O,zinc finger
+3.11,0.0335540411848676,1.15640589907645,S,F-box protein
+3.12,0.0020818436966519,1.09217632965253,U,"The coatomer is a cytosolic protein complex that binds to dilysine motifs and reversibly associates with Golgi non- clathrin-coated vesicles, which further mediate biosynthetic protein transport from the ER, via the Golgi up to the trans Golgi network. Coatomer complex is required for budding from Golgi membranes, and is essential for the retrograde Golgi-to-ER transport of dilysine-tagged proteins (By similarity)"
+3.13,2.95634317789962e-05,-2.29620445883683,K,domain-containing protein
+3.4,1.15308459990286e-12,4.6567903310842,Q,carotenoid cleavage dioxygenase 4
+3.7,4.54810887043516e-05,-1.66127021298764,F,Ectonucleoside triphosphate diphosphohydrolase
+3.8,5.29341421395844e-30,-7.17054212502435,Q,Abscisic acid 8'-hydroxylase
+4.13,2.38211928072014e-08,2.08666878633153,D,Mps one binder kinase activator-like
+4.6,1.31924010209513e-11,-4.28996271765342,S,methyltransferase
+5.1,3.41502520929225e-06,1.763628603197,S,Isoflavone reductase
+5.11,0.00322859929134908,3.23503467336168,T,Disease resistance protein
+5.12,1.19919283882039e-11,-4.96825623756349,T,Disease resistance protein
+5.19,4.43657538415456e-19,6.78860938066143,O,cysteine protease inhibitor
+5.4,0.000824311521868823,1.72232390352362,K,Myb family transcription factor
+5.7,2.69782264332349e-06,-3.12369260504382,M,LrgB-like family
+6.1,0.000805810587202821,-4.40487602065895,S,Inherit from euNOG: defense response
+6.12,0.00594342929708348,-1.09381640962131,I,Phosphomevalonate
+6.14,0.00116170893952115,2.40435092615704,K,IWS1 C-terminus family protein
+6.17,6.85078385072879e-12,-3.21310129668707,G,cellulose synthase-like
+6.5,4.13519178543006e-05,-1.38677052838108,U,Vacuolar protein sorting-associated protein
+6.8,0.0361229366884475,1.36424417231526,S,Protein of unknown function (DUF760)
+7.1,1.94874962973921e-05,2.34906365733937,"G, M",NAD dependent epimerase/dehydratase family
+7.5,0.00486834240640157,1.24385243017053,S,las1-like family
+7.9,1.08498150149342e-41,-5.31084093555216,S,jumonji domain protein
+8.0,0.0195725381482354,1.5610044680213,S,plastid-lipid-associated protein 3
+8.1,7.73191673553896e-05,2.41481735478391,S,SNARE associated Golgi protein
+8.15,7.28613074902712e-06,-1.78326682869396,S,RNA recognition
+8.4,0.0182115054682944,0.948742606109684,U,syntaxin
+9.13,8.46355835181477e-08,2.26287427586565,S,zinc-binding protein
+9.2,0.000443352543560692,-1.96124818698797,S,Endoplasmic reticulum-based factor for assembly of V-ATPase
+10.12,2.48632118839111e-06,2.53687585034196,C,mitochondrial carnitine acylcarnitine carrier-like
+10.14,1.84954017075061e-15,3.91594427469731,S,PHD
+10.2,2.55201958024381e-06,2.25087053566837,O,ubiquitin carboxyl-terminal hydrolase
+10.5,2.72008317077852e-09,-4.24621128302782,K,Transcription factor
+10.6,0.00478087528266736,-1.567694109595,S,VQ motif
+11.15,0.00549577205468014,1.31776828943135,T,leucine-rich repeat protein
+11.16,0.000133108874067608,-4.77594216474669,S,NAC domain containing protein
+11.3,7.18425645951238e-06,2.52051089972031,O,MND1-interacting protein
+11.6,0.00310091475832635,-1.16815800605734,P,Uncharacterized protein family (UPF0051)
+12.0,6.76669196224343e-13,3.47696419767686,Q,Cytochrome p450
+12.3,0.00868168349420255,2.38762683973774,P,Nitrate transporter
+13.11,1.141299795879e-05,-2.69605891156011,K,Two-component response
+13.16,4.43364077866499e-05,-3.1790092315088,G,expansin-like
+13.17,0.00785150114071229,-1.70083530725209,U,dynamin-related protein
+13.3,2.4221209425762e-39,8.34935694675869,O,heat shock protein
+13.5,0.0234240860503708,1.39571883289651,S,Pentatricopeptide repeat-containing protein
+13.6,2.85543993074304e-05,2.44336069231738,S,Haloacid dehalogenase-like hydrolase family protein
+13.8,0.00679030242600522,-1.75710645777899,Q,S-norcoclaurine synthase 1-like
+13.9,0.0362159965673421,-2.22586731290359,U,"type I inositol-1,4,5-trisphosphate 5-phosphatase"
+14.12,6.43871336280723e-26,8.5762264516703,S,Invertase pectin methylesterase inhibitor
+14.14,1.29380275964706e-07,-2.74397498198487,O,ATP-dependent serine protease that mediates the selective degradation of misfolded and unassembled polypeptides in the peroxisomal matrix. Necessary for type 2 peroxisome targeting signal (PTS2)-containing protein processing and facilitates peroxisome matrix protein import (By similarity)
+14.6,0.00662886373928656,-1.92040039144773,S,F-box domain
+14.8,0.00439693217437412,1.73956842808039,C,atp synthase
+15.0,1.36828613078443e-06,3.41669828397558,O,RING
+15.1,1.39562227848722e-06,-4.47132171925307,S,Protein of unknown function (DUF581)
+15.2,0.000222887721761164,1.44814543581437,T,Protein of unknown function (DUF1162)
+15.3,0.0188640337759379,-1.7040645747177,S,Endoribonuclease XendoU
+15.5,4.90224124763014e-05,-2.32256719723686,J,60S ribosomal protein L37a
+16.1,0.000960557972839706,-2.70914871972516,S,MORN
+16.7,1.07236163679168e-05,1.64979110758394,"D, K, T",casein kinase II subunit
+17.1,9.3045243658839e-16,5.28795960055162,T,serine threonine-protein kinase
+17.8,0.00753929132083688,-1.03901124861559,A,SpoU rRNA Methylase family
+18.3,0.00177922849756854,2.13547280098028,S,ankyrin repeat family protein
+18.9,2.06912416994168e-05,1.46161432231533,"O, T",COP9 signalosome complex subunit
+19.16,0.000211753575572636,-1.76443250894437,S,RNA-binding protein
+19.3,2.29157411894014e-06,2.55944124479608,P,Major Facilitator Superfamily
+19.5,0.0212265642525975,1.06798797806182,U,gtp-binding protein
+20.11,8.2197687109425e-11,-3.26840218981408,K,Transcription factor
+20.5,1.25800023067079e-06,3.11287748554686,P,plasma membrane
+21.0,5.98387058286256e-05,-2.37947864740815,G,Palmitoyl-protein thioesterase
+21.1,2.04723089711117e-05,-2.58603843286674,V,phosphatase
+21.11,0.00018434698093454,-4.07756407234814,K,homeobox-leucine zipper protein
+21.13,0.000728735255307045,1.43363016656107,S,Protein of unknown function (DUF1639)
+21.5,1.25566858446827e-09,-2.52062796768341,K,MYB family transcription factor
+21.9,9.416791120512e-05,1.91428467391562,A,Inherit from KOG: domain containing E3 ubiquitin protein ligase
+22.1,3.36107690580671e-17,-2.90725330658768,"G, M, W",exostosin family
+22.2,9.39318802252463e-05,-2.13578679493608,S,Pfam:DUF124
+22.5,9.38409829596639e-05,-1.69094008040621,J,Ribosomal protein L15
+22.7,0.00534749084756691,1.12700772050118,G,formyltetrahydrofolate
+22.9,0.0160775591899041,0.997329944654554,S,Agenet domain
+23.0,0.000143444819826446,-2.00172001077893,"O, W",metalloendoproteinase 1-like
+23.1,0.0317275490108234,-1.07817167946377,S,histidine triad
+23.11,0.0432720476361843,-2.3171958444035,O,aspartyl protease family protein
+23.16,1.94874962973921e-05,-3.24203536605411,G,glycosyl transferase 8 domain containing protein
+23.18,0.0110695447765898,-1.5891898217317,O,Protein arginine n-methyltransferase
+23.6,1.17892642465629e-29,5.17198564835424,S,ZnF_U1
+24.1,1.28724142236706e-08,-4.48540038336204,C,L-lactate dehydrogenase
+24.15,0.0119234688915672,-1.81259602621307,S,Pfam:YbaK
+24.7,0.000450339794477123,1.49434471215454,Z,autophagy-related protein 8f-like
+25.7,0.0132734142373466,2.28018204315702,I,acidPPc
+25.9,0.00363730319871031,2.19251639625143,F,Adenine phosphoribosyltransferase
+26.4,0.00676682655808407,1.83764933373154,G,Removes the phosphate from trehalose 6-phosphate to produce free trehalose. Trehalose accumulation in plant may improve abiotic stress tolerance
+26.6,1.94874962973921e-05,-5.74561753532149,Q,monocopper oxidase-like protein
+26.9,0.0147505271372349,-3.10984355454663,"G, M, W",xyloglucan galactosyltransferase
+27.1,0.000746034660233846,2.90034085702933,O,vacuolar-processing enzyme
+27.11,0.0131682761487451,2.26154650817855,I,UPF0551 protein C8orf38 homolog
+27.12,4.31992028133189e-05,1.71371396301381,O,heat shock protein
+27.13,0.0141013873777979,2.17624337926974,J,elongation factor G
+27.14,0.0235315047214391,2.42257225548163,J,elongation factor G
+27.15,2.32230939220145e-48,8.41994427026389,S,Plant invertase/pectin methylesterase inhibitor
+27.2,0.000304968349612002,-3.71629644219793,S,Auxin-responsive family
+27.5,6.7031839682387e-10,-2.28614477581411,"O, T",FAM10 family protein At4g22670-like
+28.0,8.81430950411626e-22,5.66909627112579,Q,cytochrome P450
+28.1,3.54338101635156e-20,5.00492370776455,Q,cytochrome P450
+29.17,0.00903196656641892,1.45093744173287,S,S-acyltransferase
+29.4,0.0388870975599549,1.87649212655803,M,UDP-D-glucuronate 4-epimerase 5
+29.8,2.86312273237555e-05,-3.49547347029655,S,Protein of unknown function (DUF1442)
+30.1,0.000132708324231662,-3.96784208451597,L,photo-lyase
+30.11,0.0021285698229982,-2.60387930526311,S,ACT domain
+30.6,0.0138705791755049,-1.6397846546455,I,methylsterol
+30.7,0.0134666017032833,1.6635661079682,L,DNA repair protein
+30.9,5.254411877075e-08,-3.7711489640302,S,"AT hook motif domain containing protein, expressed"
+31.16,0.0497404383523038,-1.97916112032237,T,Aminotransferase
+31.18,0.0080155563591684,-3.18508796831484,G,phosphate phosphate translocator
+31.6,0.0437812261518978,-1.26101033707209,S,TVP38 TMEM64 family membrane protein
+31.7,0.00991202458515691,-1.67805884915548,T,LRR receptor-like serine threonine-protein kinase
+31.8,1.06483461455795e-05,1.7078863123902,S,Cell cycle regulated microtubule associated protein
+32.0,0.00214811163039691,-3.51997704918443,Q,cytochrome P450
+32.11,2.04772116844247e-12,2.63945280340081,P,copper chaperone
+32.15,0.00696147108078567,-4.17893349672565,H,anthocyanidin synthase
+33.0,0.028532422206063,4.02845705985896,G,"atexpa7, exp7, atexp7, athexp alpha 1.26, expa7 atexpa7 (arabidopsis thaliana expansin a7)"
+33.1,0.0474602005589981,-1.08605517953066,S,Protein of unknown function (DUF1191)
+33.14,1.68727695070804e-05,2.55350553804639,I,hydroxymethylglutaryl-CoA synthase
+33.5,5.15759911264839e-06,-3.70982272592496,K,Homeobox protein knotted-1-like
+33.6,5.06507666658595e-16,-3.33412167529268,I,Hydrolyzes glycerol-phospholipids at the terminal phosphodiesteric bond (By similarity)
+33.8,8.05785305763261e-21,6.03472974486949,S,Senescence-inducible chloroplast stay-green protein
+34.2,4.26432602029427e-12,-3.39634076589971,P,SPX domain-containing membrane protein
+34.4,5.35814718448489e-05,-1.52230123284236,U,RanBP1 domain
+34.7,1.6532374070224e-53,-6.83342325802833,K,AP2
+35.0,1.28807830736437e-12,-6.82645645652644,K,Transcription factor
+35.2,1.1799265529366e-05,-5.5473640537153,V,Multidrug and toxin extrusion protein
+35.8,6.40174587474173e-07,-3.29950614856363,S,F-Box protein
+36.1,1.06613826370615e-18,3.7867626519224,T,inactive rhomboid protein 1-like
+36.11,3.90681654642889e-05,-2.4270592580426,S,Inherit from euNOG: C2
+36.12,0.00259163067768433,1.88795940255439,K,heat stress transcription factor
+36.13,2.69436818772125e-06,2.84766797190662,S,"protein phosphatase inhibitor 2 containing protein, expressed"
+36.14,2.82351818478426e-06,3.58984509574473,M,UDP-glucose
+36.2,0.000447526624267174,1.32975607677705,O,E3 ubiquitin-protein ligase
+36.4,0.0294417427813432,2.62686069879647,S,thaumatin-like protein
+37.0,7.38698233480777e-40,10.8210935902554,S,thaumatin-like protein
+37.1,9.09938237847092e-07,5.96171619542893,S,THN
+37.2,0.00638232625114732,-2.04704713074577,S,thaumatin-like protein
+38.1,0.0178392359222499,-2.81581438554091,S,CAP10
+38.13,2.25122508296219e-15,6.29806405761489,S,Multiple C2 and transmembrane domain-containing protein
+38.4,1.48941246286912e-27,8.72966629198118,P,copper-transporting ATPase
+39.2,1.7853632365068e-13,4.88689096325774,H,glutamate--cysteine ligase
+39.3,0.029660983561185,1.40929224432185,K,"Transcription factor S-II (TFIIS), central domain"
+39.5,0.0437258119080492,1.08099443915097,S,Uncharacterized conserved protein (DUF2365)
+39.7,4.99199535346643e-06,2.63055432347962,S,PHD finger protein MALE
+40.13,0.00430483196159718,1.69195113806947,O,ubiquitin-conjugating enzyme
+40.4,6.96598236408632e-08,4.72286568692365,G,Aquaporin
+40.6,0.00105766116033425,-1.77955671314471,T,"- STE kinases include homologs to sterile 7, sterile 11 and sterile 20 from yeast, expressed"
+40.7,8.83707731986814e-08,-2.27730370755879,T,"- STE kinases include homologs to sterile 7, sterile 11 and sterile 20 from yeast, expressed"
+41.1,0.00073640898731084,1.44723178901057,L,DNA repair helicase
+41.3,0.000285811536199337,2.33770335155619,S,PLAC8 family
+41.4,1.75201979177321e-10,2.6032263993441,O,zinc finger
+41.5,0.0260747162728408,-2.91999046927788,S,expressed protein
+42.1,0.000244924711617082,-4.26708381357989,S,BTB POZ domain-containing protein
+42.11,3.40978764249504e-05,-4.52672103884592,G,"Protein of unknown function, DUF604"
+43.0,3.57091669511713e-22,4.87783934211623,O,heat shock protein
+43.1,2.58413113801e-12,4.58087907099984,O,heat shock protein
+43.17,4.77549407315024e-05,-1.47825064582441,S,"WD domain, G-beta repeat"
+43.4,9.75163067535265e-18,-3.91481176128894,S,Protein of unknown function (DUF793)
+43.6,0.0169075979199651,-1.75136938461858,P,Heavy-metal-associated domain
+43.8,4.4539912387859e-05,-2.88300675336763,"A, D",G-patch domain
+43.9,0.026205582928165,-2.76333169220409,K,WRKY
+44.2,1.63083718004044e-16,-3.89343215396165,"P, Q",respiratory burst oxidase
+44.3,5.57228526099859e-18,-7.87748289755685,S,Late embryogenesis abundant protein
+44.4,3.49792062263427e-15,-6.12343852233887,S,Late embryogenesis abundant protein
+44.5,0.0479044164955258,-1.65575554759629,S,Late embryogenesis abundant protein
+45.0,0.000220458997394314,-3.87416886336009,S,Late embryogenesis abundant protein
+45.12,2.25213413083848e-06,-2.3599225026268,P,"atkt1, atkt1p, atkup1, kup1 atkt1 (potassium transporter 1)"
+45.7,0.000112606943519536,-3.96361399073065,S,"harpin-induced protein 1 domain containing protein, expressed"
+46.1,0.0215071504798161,-1.82637898886622,P,Cation H( ) antiporter
+46.8,0.0316641000961027,-3.85371787362424,S,disease resistance response protein 206-like
+47.1,0.00106793158214558,1.80057958906741,S,Retrotransposon protein
+47.13,0.0327582880387996,1.16676348189928,J,Translation initiation factor
+47.3,0.00528351007032549,1.41060534861432,S,glyoxalase bleomycin resistance protein dioxygenase
+48.0,0.0472920002761702,-1.03179095381003,G,Aldose 1-epimerase
+48.3,1.44865423567082e-07,-5.60854727797404,K,Transcription factor
+48.4,0.0316036890572361,1.36132277453086,T,protein kinase kinase kinase
+48.9,0.000953590772436318,1.52093985380934,J,Protein SUPPRESSOR OF PHYA-105
+49.16,0.000661678937091526,-4.29775907795206,"U, Y",Protein of unknown function (DUF3593)
+49.2,2.30617261288281e-14,-8.01201753678836,S,"Inherit from NOG: keratin, type II cytoskeletal"
+49.3,0.0166241842800942,-1.21781771852366,S,"Inherit from NOG: keratin, type II cytoskeletal"
+49.4,0.00372791982847781,1.58038395654169,C,mitochondrial substrate carrier family protein
+51.5,0.000715191362430323,1.31513266130992,L,DNA primase
+51.9,3.06704622787392e-09,-4.04939648066311,K,Transcription factor
+52.2,0.0132688477466493,2.99761135642161,S,Putative zinc finger in N-recognin (UBR box)
+52.4,0.00900998490134203,-1.71909984726464,I,acyl-CoA synthetase
+53.4,1.36272974294478e-16,3.28928407228014,S,PH
+53.5,0.0458610053420243,0.803832687430232,F,Nucleoside diphosphate kinase
+53.7,4.95601731970659e-27,4.17765413496999,M,UDP-glucose 4-epimerase
+54.1,0.00111754740248048,3.04230759861224,H,3-oxoacyl- acyl-carrier-protein synthase
+54.12,3.4144534660632e-05,-2.82941059354895,O,phosphatidylinositol 3- and 4-kinase family protein
+55.3,0.000900038733276393,-1.97097217712921,K,"transcription, DNA-dependent"
+55.5,0.000498576020598254,-1.21189596588278,K,cyclin-dependent kinase
+56.3,1.62120275881695e-08,-2.61286878588446,G,"alpha,alpha-trehalase (EC 3.2.1.28)"
+56.5,0.00277285302439071,1.40702082010912,J,Mitochondrial small ribosomal subunit Rsm22
+57.0,2.34449769920885e-06,-1.45397370334005,S,WD-40 repeat family protein
+57.13,0.0167826721276341,-2.5514808504552,S,BTB POZ domain-containing protein At3g05675-like
+57.19,3.74152477680192e-06,-2.38502967138598,G,Aldolase
+57.4,0.0130834131964384,1.11969965850074,S,Zinc finger HIT domain-containing protein
+58.2,0.0478680154524694,-0.813349916802244,S,UPF0160 protein MYG1
+58.3,0.00961289427251611,-3.30284967906592,O,Bacterial dnaA  protein
+58.6,0.0134146409148117,-2.79428086364646,P,transporter
+59.0,9.02832015504958e-05,1.81389670467776,K,Mediator of RNA polymerase II transcription subunit
+59.1,0.0134353678620645,-1.65737301227729,K,homeobox-leucine zipper protein
+60.14,1.92390767087499e-27,3.56407720422946,S,Inherit from euNOG: heavy-metal-associated domain-containing protein
+60.2,2.35968594937171e-10,-2.72449536896311,S,Remorin family
+60.5,2.9230235201658e-07,4.23736534619873,T,low-temperature-induced 65
+60.7,0.0247382944331971,-3.00756692599366,S,CAP10
+61.0,0.0265419979999375,-2.6334725948243,Z,"Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain (By similarity)"
+62.8,0.0113177990420078,-1.31317180193197,T,U-box domain-containing protein
+63.0,5.01874973433174e-07,2.10178873871856,S,zinc finger
+64.1,0.00440657027064585,-2.34579494212989,P,transporter
+65.1,0.000128758804183236,-1.72447441436779,A,rRNA 2'-O-methyltransferase fibrillarin
+65.5,5.46000933590206e-05,3.2154889596111,S,BAHD acyltransferase
+65.6,7.11857687305248e-09,4.68225341861547,S,UPF0496 protein
+65.7,6.26280747047197e-08,4.47399289068082,S,C2
+66.1,0.00868168349420255,1.62251100970779,J,Prolyl-tRNA
+66.5,2.94170814726306e-12,2.78339444365033,S,Pfam:DUF862
+67.1,5.34333059455996e-11,-4.62516265585943,I,Beta-carotene hydroxylase
+68.7,0.0213771678891136,-3.15337983711961,P,Heavy metal-associated domain containing protein
+68.9,1.06259158952244e-06,2.36177830689276,K,transcription factor
+69.1,0.00153507251281305,2.51538661459694,L,Herpesviridae UL52/UL70 DNA primase
+69.3,0.0256151181969399,-2.20829055371633,E,Ornithine cyclodeaminase/mu-crystallin family
+69.8,5.33914374972183e-06,2.02518453669201,C,ETC complex I subunit conserved region
+70.2,0.00764455409618968,1.07395671200072,U,"Sedlin, N-terminal conserved region"
+70.6,7.27051878451855e-09,-5.50565178309824,S,Late embryogenesis abundant protein
+70.9,0.0173440364275287,-3.40660880201688,S,membrane-associated kinase regulator
+71.0,0.00167287384397289,2.22698638469059,U,Reticulon-like protein
+71.2,0.00133832290233689,-1.73697025392922,O,AAA-type ATPase family protein
+72.0,0.0497404383523038,0.850941456547504,L,Timeless protein C terminal region
+72.1,0.0206928018394154,1.33672700781458,L,Timeless protein
+72.12,1.19919283882039e-11,-5.43663202542686,G,acidic endochitinase-like
+73.1,0.0484691886518958,-1.66481706256157,S,Protein of unknown function (DUF3143)
+73.9,2.4422996563583e-05,1.9256416754623,S,Proline-rich cell wall
+74.0,8.05398386286986e-05,-2.58481496538754,G,beta-glucosidase
+74.1,0.00171359867047893,-1.29967236001882,P,SLAC1 homologue 2
+74.2,2.88929428726904e-14,-2.8168479570809,S,myosin ID heavy chain-like
+75.3,4.26615335134689e-07,-5.67878400290592,K,WRKY transcription factor
+76.2,0.00016706396383439,-1.25263436267046,A,polypyrimidine tract-binding protein
+76.4,0.00814741475205653,-1.44746937525897,O,ATP-dependent zinc metalloprotease FtsH
+77.0,1.24437974848674e-05,-2.40855408651565,P,cyclic nucleotide-gated ion channel
+77.7,2.73196422491911e-05,2.187942909331,E,spermidine synthase
+78.11,1.00260452019642e-05,2.37532599622972,S,Protein of unknown function (DUF1674)
+81.1,0.00664512180235531,-2.22400708894481,O,phosphatidylinositol 3- and 4-kinase family protein
+82.3,1.52983756908876e-05,-1.83726429874686,O,E3 ubiquitin-protein ligase
+82.4,0.0434208562973934,1.57428142240464,O,ATP-dependent Clp protease ATP-binding subunit
+83.1,0.00134749437174068,-2.7516260373788,Z,IQ-domain
+84.1,0.0417499903233542,1.10176039164706,A,KH domain-containing protein
+84.5,0.0178392359222499,-1.04724078013217,"U, Y",importin subunit
+84.6,0.00219231167107377,3.02718851391236,"T, U",Calcium-binding EF hand family protein
+85.1,0.00679030242600522,-3.95437077272083,S,dof zinc finger protein
+85.3,0.00100543764414262,-2.87298437152213,S,thylakoid lumenal 17.4 kDa protein
+85.4,8.30900830704664e-06,1.8221548668646,S,"WD domain, G-beta repeat"
+86.0,4.18036398530699e-07,1.85351546195254,S,impaired sucrose induction
+86.5,0.0418426544330745,-2.94301863308577,S,Ubox
+87.1,1.1966971446745e-14,3.87058154687315,P,metal-nicotianamine transporter
+87.2,3.06333301295629e-05,2.3363657781675,C,Cytochrome b5
+87.5,0.00173495600126074,-3.33462216950858,O,AAA-type ATPase family protein
+88.2,0.0284989137709786,1.0369574856977,G,6-phosphogluconolactonase
+90.5,1.70857290463291e-17,-4.22135968775636,T,CDPK-related protein
+94.3,0.00251561874256829,-2.57241032736041,T,Guanine nucleotide binding protein (G protein) alpha
+99.6,0.000880705962370285,1.27126691619479,S,Ternary complex factor MIP1
+103.6,0.0396336438953514,1.3332625685766,"M, O, T",Protein sel-1 homolog
+103.8,0.000451078174729416,1.70325503370366,G,"Converts alpha-aldose to the beta-anomer. It is active on D-glucose, L-arabinose, D-xylose, D-galactose, maltose and lactose (By similarity)"
+105.2,0.00214811163039691,-2.04177594884405,T,inactive receptor kinase
+116.1,0.00505191867443509,-1.22989147787222,S,Inherit from KOG: serine threonine kinase 11 interacting protein
+118.4,5.18654605270506e-09,-3.94096259674012,T,calcium-binding protein
+119.0,4.6526129173331e-06,3.04807473570941,U,RAB
+128.1,2.69856602349309e-11,-4.37820156232181,T,LRR receptor-like serine threonine-protein kinase
+128.2,0.0351457242066834,-3.22074217748414,G,beta-glucosidase
+129.3,0.0039750249414903,-1.56516977435382,O,Mitotic-spindle organizing protein
+129.4,0.00696147108078567,-1.42247379514475,S,membrane steroid-binding protein
+131.1,0.00256481698102166,-2.50014195480436,S,glycosyltransferase
+131.11,0.00159462582114291,-3.65012786473984,V,Mate efflux family protein
+131.4,0.00114756417383829,-2.57442629859821,E,Ankyrin Repeat
+135.4,8.26601139903552e-10,2.83802683491339,K,NF-X1-type zinc finger protein
+135.7,1.23394616321845e-49,6.201912768865,O,"zinc finger, C3HC4 type domain containing protein, expressed"
+136.0,0.000126062230784353,-5.64101212214258,U,nonspecific lipid-transfer protein
+137.2,2.06061616367132e-09,-3.99021427373382,T,serine threonine-protein kinase
+137.3,0.000271298453033172,-4.00022984516557,T,receptor-like protein kinase
+137.4,1.73104594944025e-10,-3.87948473471039,T,serine threonine-protein kinase
+138.0,0.00586412158867485,-3.70443420148591,S,calmodulin binding
+139.2,0.00282499425776956,1.47332698501997,T,Cysteine-rich receptor-like protein kinase
+139.5,0.00054572400669655,-1.34093799835413,O,AMSH-like ubiquitin thiolesterase
+140.1,2.30546140507715e-05,-1.51024514826356,J,40s ribosomal protein
+142.0,0.00212072629905915,1.37002336984596,S,Plant protein of unknown function (DUF639)
+142.2,0.000101835590879706,-1.92512323605091,S,C2 domain
+144.4,5.30278246393084e-07,2.45463989853046,C,"Accessory subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I), that is believed not to be involved in catalysis. Complex I functions in the transfer of electrons from NADH to the respiratory chain. The immediate electron acceptor for the enzyme is believed to be ubiquinone (By similarity)"
+144.6,2.29227474273497e-11,3.77531139961516,C,"Accessory subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I), that is believed not to be involved in catalysis. Complex I functions in the transfer of electrons from NADH to the respiratory chain. The immediate electron acceptor for the enzyme is believed to be ubiquinone (By similarity)"
+146.3,4.74380129734379e-07,4.02121866991551,A,Inherit from KOG: PRP4 pre-mRNA processing factor 4 homolog B (yeast)
+147.5,0.0351457242066834,-0.740120735947835,T,serine threonine-protein phosphatase 2A 65 kDa regulatory subunit A
+147.7,0.000101835590879706,-2.52908049992613,Q,Cytochrome p450
+147.8,0.00836788949738749,-1.4844328384964,Q,cytochrome P450
+148.2,0.000340612669581532,-2.64008602753031,O,aspartic proteinase
+149.7,0.000103479590539376,-2.96766708000521,S,"Protein of unknown function, DUF288"
+150.0,7.22043666502947e-06,-1.4532298826097,B,Histone deacetylase
+151.0,8.43759916033517e-08,2.10116593598803,O,Transmembrane Fragile-X-F protein
+153.1,0.0259967274294753,-0.953044613869151,K,transcription initiation factor TFIID subunit 2-like
+155.4,0.0305379976688557,-1.00591369271652,J,40s ribosomal protein
+156.0,1.39894199845404e-05,-4.53284747622791,S,"phosphate-induced protein 1 conserved region domain containing protein, expressed"
+156.7,0.0244227417050458,0.911738394123653,O,mitochondrial intermediate
+156.9,0.000998413054268759,-4.74546196288039,K,myb domain protein
+157.2,1.81672084304654e-07,6.49710923899872,Q,Cytochrome p450
+158.7,0.00201311910956386,-1.15593635393586,P,nucleotide-sensitive chloride conductance regulator
+160.1,4.4539912387859e-05,1.63888452399305,O,hypersensitive-induced response protein
+160.2,0.00206287734523138,-1.28888611894478,O,Peptidyl-prolyl cis-trans isomerase
+160.3,0.00594342929708348,2.84908073755673,G,enolase (EC 4.2.1.11)
+161.3,0.000108797613953385,-1.28126947164444,A,cleavage and polyadenylation specificity factor subunit
+161.6,0.0202601957912747,-2.89309016834597,S,Pfam:DUF231
+161.7,4.69779904747372e-05,-2.97349342824561,S,Pfam:DUF231
+162.14,0.0309385632686412,-3.33224799160083,P,) efflux antiporter
+162.3,8.84322466971049e-13,3.12906604443752,S,domain--containing protein
+163.1,3.63438962305067e-07,1.83177704532677,S,domain--containing protein
+168.1,0.0417499903233542,1.01893716044097,G,phosphoglucomutase EC 5.4.2.2
+168.2,7.22043666502947e-06,1.73462387982898,G,phosphoglucomutase EC 5.4.2.2
+170.0,0.00663400006930679,2.7106035678551,G,fructokinase EC 2.7.1.4
+171.9,2.32716483490385e-08,-3.70829669949069,Q,Alcohol dehydrogenase GroES-like domain
+172.1,0.0121036490212951,-1.90427384825664,T,calcium-dependent protein kinase
+172.6,4.47781142158633e-19,-8.97275745863624,K,binding factor
+172.7,3.74180102472985e-07,-5.01718983284141,K,Transcription factor
+173.1,0.0190680164993712,-2.44665364860045,T,TraB family
+174.6,0.000521926209089146,-1.30430759125655,A,Arginine serine-rich-splicing factor
+175.1,0.00503956580206337,-2.46218307443494,T,BAG domain-containing protein
+175.2,0.0490599620119421,-1.37046725457993,E,dihydrodipicolinate reductase
+176.4,0.000856531289641869,-1.7066676510965,K,homeobox-leucine zipper protein
+178.0,1.4828974181926e-06,-3.71097582923233,C,reticuline oxidase-like protein-like
+178.1,2.53871358145276e-12,-3.91809205669796,M,3-hexulose-6-phosphate isomerase-like
+178.11,0.0211579655920036,0.990695409482942,S,membrane steroid-binding protein
+180.4,4.95706892738576e-08,3.28847659084414,A,Ataxin-2 C-terminal region
+182.0,0.0198316659830168,-1.80305891663347,M,Granule-bound starch synthase
+182.1,0.00664512180235531,-1.64029514789777,M,Granule-bound starch synthase
+182.3,0.00789227990943817,1.58782363538297,S,Avr9 Cf-9 rapidly elicited protein 65
+183.0,0.0306518343848182,1.75211776939341,J,Ribosomal protein
+186.14,0.00383246676162669,1.7082558522435,Q,Cinnamyl alcohol dehydrogenase
+186.3,1.82755602643238e-11,3.73631841589621,"U, Y",Nuclear pore complex protein
+186.4,0.034363719525116,-1.10079947069903,J,60S ribosomal protein
+186.9,0.00145659088544275,2.83810701665302,S,auxin-induced protein
+187.0,7.35009179154277e-05,-2.26759027447023,Z,Actins are highly conserved proteins that are involved in various types of cell motility and are ubiquitously expressed in all eukaryotic cells
+187.5,0.00130429228195462,-1.5513456998512,K,SANT
+188.2,0.000134676053933072,-4.30074688866309,G,Aquaporin
+188.3,1.81067109955558e-12,5.71551766105007,S,response to low sulfur
+188.5,0.000134508082821577,1.77692969687029,U,Autophagy-related protein 13
+189.0,5.81427120045024e-06,2.77354311105256,S,"Protein of unknown function, DUF599"
+189.13,5.31290544548997e-18,-4.88305880473056,S,caffeic acid
+189.14,0.0417499903233542,-0.778824542122183,C,Band 7 family protein
+189.17,0.0273842570715609,-2.18262723056005,Q,"oxidoreductase, 2OG-Fe(II) oxygenase family protein"
+189.5,0.00841835827730641,-1.60858756011493,S,nac domain
+190.0,3.30762903732932e-06,-5.16167153272396,U,transparent testa glabra
+190.13,8.26813681700333e-13,2.84696143972058,S,Avr9 Cf-9 rapidly elicited protein 65
+191.0,0.015397110610601,1.75549248112479,A,RNA-binding protein
+191.4,4.14533250789306e-12,3.51966993695163,O,heat shock protein
+192.3,1.65952573040418e-05,-2.63846752308956,P,cyclic nucleotide-gated ion channel 20
+192.4,0.00133172320604575,-2.24652976883371,U,"Potassium voltage-gated channel, subfamily H (Eag-related), member"
+192.5,6.59767732498649e-09,-3.14925542387273,U,"Potassium voltage-gated channel, subfamily H (Eag-related), member"
+194.1,1.32444807236939e-05,1.87514659358273,S,Inherit from COG: UPF0174 protein
+194.3,0.00133620417251948,3.59701789512557,C,Berberine and berberine like
+195.1,7.16247747456394e-05,-3.02055540773789,K,nucleic acid binding transcription factor zinc ion binding
+196.2,4.05866523593666e-06,-2.35314896350969,T,"Calmodulin mediates the control of a large number of enzymes, ion channels and other proteins by Ca(2 ). Among the enzymes to be stimulated by the calmodulin-Ca(2 ) complex are a number of protein kinases and phosphatases"
+199.1,0.000904589488577394,2.29836239230446,S,heme-binding protein
+201.2,0.00142279433255731,1.45462824328356,A,Inherit from strNOG: FKBP12-interacting protein of 37
+205.1,0.00880170313395343,-1.28168091378823,O,Tim17/Tim22/Tim23/Pmp24 family
+205.9,0.00368060016499805,1.99239346746015,P,Protein of unknown function (DUF525)
+206.2,0.0024000207967561,3.24913045573808,P,boron transporter
+207.4,0.0404254243147611,-1.0936273360201,J,ribosomal protein
+207.5,0.0437812261518978,2.02238839900492,S,zinc finger protein
+208.3,3.77460708942128e-06,-3.10264737620089,H,1-deoxy-D-xylulose 5-phosphate reductoisomerase
+208.4,0.0361229366884475,1.00040249898607,U,peroxisomal membrane protein PEX14-like
+209.0,0.00679030242600522,-4.29310097189275,P,carbonic anhydrase
+209.2,2.1889687214857e-05,-4.67197625890519,P,carbonic anhydrase
+210.6,0.0040308423524166,-1.37188315573881,J,Exosome complex
+211.6,0.0387441849127027,-1.05153376931375,S,CASP-like protein
+212.0,1.89150744322792e-05,-4.95404548660845,K,HLH
+212.2,7.02074903719532e-05,1.40195002439347,O,DSS1/SEM1 family
+213.2,9.73776477495946e-110,-6.55784900488069,S,U-box domain-containing protein
+213.3,1.10179219125957e-07,-5.36821980903508,C,Aldehyde dehydrogenase
+214.1,0.0104350418928452,-3.39631637157324,G,"alpha,alpha-trehalose-phosphate synthase UDP-forming"
+215.0,0.000143444819826446,2.65821070808588,O,Hypoxia induced protein conserved region
+215.1,9.75163067535265e-18,4.90389557161382,O,protease Do-like 9-like
+215.2,3.06704622787392e-09,2.81794077963276,O,ubiquitin-conjugating enzyme E2
+215.3,0.000538202884935695,1.45371376527488,S,F-box associated domain
+215.5,0.0071021352583851,-1.9939874810206,S,EamA-like transporter family
+215.8,1.70455546202398e-05,-5.56677524522323,P,nucleobase-ascorbate transporter
+216.0,4.39724426375325e-09,-2.3912800379881,"T, Z",Cysteine and glycine-rich protein 1
+216.1,1.81694802453516e-05,3.6082535470794,S,"Protein of unknown function, DUF393"
+216.2,0.00107441747291879,3.03128702354984,S,"Protein of unknown function, DUF393"
+216.5,0.0215071504798161,-1.55722451412035,S,calmodulin-binding protein
+216.6,0.000118150003112516,-1.79383883000664,S,calmodulin-binding protein
+216.7,0.00104391614903599,-4.26602609134159,S,Gibberellin regulated protein
+216.8,5.05311724101823e-06,3.01257083865694,L,base excision DNA repair
+217.2,0.000423682781258163,-2.09623328330839,L,Inherit from KOG: DNA crosslink repair
+218.5,2.39723697687581e-08,-2.28773128008132,S,enhanced disease susceptibility 1
+219.1,6.24597876568689e-06,1.91622291341256,U,Exportin 1-like protein
+220.12,0.045993722103606,1.39155923919816,S,WW domain binding protein 11
+220.15,3.5182138136106e-05,1.58497543493003,S,Nodulin-like
+220.4,5.32691108534065e-08,-1.98249013849872,G,"Beta-1,3-galactosyltransferase"
+220.6,0.00584480204632873,-1.93286863830247,K,Transcription factor
+220.7,0.00364909025912908,-1.77000520640121,Z,Dynein light chain type 1
+221.1,5.34930361933769e-05,-1.98964201542772,T,Calcium-dependent protein kinase 30
+221.2,7.22043666502947e-06,1.72241245128482,O,DnaJ heat shock protein
+221.3,2.77057944766699e-27,-3.38354123198908,P,plasma membrane
+221.6,0.00753929132083688,-3.44163147286491,S,Pentatricopeptide repeat-containing protein
+221.7,3.04391175241186e-07,-5.84885186308412,P,Nitrate transporter
+222.5,0.026205582928165,-1.94773902871124,O,hypersensitive-induced response protein
+222.7,6.36061514468248e-08,-2.33599079597709,K,Homeobox associated leucine zipper
+223.11,0.0280573936913069,0.987520769713844,E,Dehydrogenase
+224.5,9.29649478683069e-08,-3.44734320802997,Q,ABC transporter A family member
+225.2,3.35613382749619e-09,7.89683024048785,S,Kelch repeat-containing F-box family protein
+225.3,1.43716016457828e-05,5.63845469772592,"D, U",RINT-1 / TIP-1 family
+225.4,0.00043430582243936,3.58536872817779,"D, U",RINT-1 / TIP-1 family
+225.5,7.38986035046976e-16,8.97432022300818,S,F-box kelch-repeat protein
+226.1,0.0380446766260292,3.15165654809848,T,resistance protein
+226.5,0.00680195707346986,1.56049503117239,Z,"microtubule-associated protein, RP EB family"
+226.9,1.18502996777895e-08,2.96337884781371,U,HVA22-like protein
+227.0,0.010834619363292,-3.31508549803397,S,FAR1 DNA-binding domain
+227.15,0.00124042290902191,1.40635258410508,J,Eukaryotic peptide chain release factor subunit
+227.17,9.79741220752857e-13,-3.95122616135209,J,60S ribosomal protein
+229.0,0.0169413534612635,-3.15481315846989,A,zinc finger
+229.7,0.00662886373928656,-1.70738290684202,C,Malate dehydrogenase
+230.2,5.33914374972183e-06,3.13891763471452,T,EF hand family protein
+230.3,0.0010216782356929,1.38786237564521,H,Biotin/lipoate A/B protein ligase family
+230.5,9.89708968137696e-36,5.64789774945734,S,NAC domain-containing protein
+230.8,0.0313490679125885,-2.81955183607343,J,loosening and extension of plant cell walls by disrupting non-covalent bonding between cellulose microfibrils and matrix glucans. No enzymatic activity has been found
+231.11,0.0441982582297266,-1.84047705955921,G,galactoside 2-alpha-L-fucosyltransferase-like
+231.14,0.000107891950073468,-2.93968306033556,"G, M",glycosyltransferase
+231.2,1.71841456446303e-06,2.24966547749513,O,Peptidyl-prolyl cis-trans isomerase
+231.5,3.78159364739425e-05,2.03304786486052,L,exonuclease
+231.6,0.0015798730744851,1.3346528612778,L,exonuclease
+232.1,3.33307061738346e-05,2.53983778048961,O,Ring zinc finger protein-like
+232.15,0.0151709151558613,1.20193874367458,J,eukaryotic translation initiation factor
+232.6,4.54837491696041e-10,-3.78516413460483,T,LRR receptor-like serine threonine-protein kinase
+232.8,0.00435932105139937,-1.55201117668108,J,40s ribosomal protein
+233.0,0.000786082223002605,2.9558901544068,S,Plant calmodulin-binding domain
+233.1,0.00289009590787166,-3.79187974211084,G,heparanase-like protein
+233.11,1.42426822856007e-11,-3.20372291467826,U,SNAP25 homologous protein
+233.16,4.63670816804372e-09,-3.05533679124216,G,Udp-glucose 6-dehydrogenase
+234.2,0.00299218754353882,-1.52339996894392,I,Diacylglycerol kinase
+234.3,6.93294348453951e-06,-2.32221856237264,J,40s ribosomal protein
+235.2,5.54882980248675e-72,5.96250830728747,O,heat shock protein
+235.6,0.000214012023598882,1.65400245727379,C,mitochondrial glycoprotein
+236.14,0.00800071876799351,1.8347778704651,C,Glycerophosphoryl diester
+236.16,0.00394175736773774,1.44255356010964,T,protein)-like
+237.1,0.00299218754353882,-1.38800634143791,S,Pentatricopeptide repeat-containing protein
+237.2,0.000273315262938304,-4.48617111817514,S,cobra-like protein
+237.7,2.4493442464587e-10,2.3182391078955,S,"CONTAINS InterPro DOMAIN s Galactose oxidase kelch, beta-propeller (InterPro IPR011043), Kelch repeat type 1 (InterPro IPR006652), Kelch repeat type 2 (InterPro IPR011498), Kelch-type beta propeller (InterPro IPR015915)"
+239.8,2.94170814726306e-12,2.98456091623567,C,"ADP,ATP carrier protein"
+240.1,2.35938174138614e-07,-3.59302356132832,S,DUF246 domain-containing protein
+240.2,0.04946412629005,-2.01383670717921,"C, G",UDP-Glycosyltransferase
+240.5,0.0361229366884475,-1.09320682029178,S,WD repeat and HMG-box DNA-binding protein
+240.7,7.35009179154277e-05,-2.44631590936603,K,transcription factor
+240.8,0.0218324261097892,-2.88505433302593,"C, G",UDP-Glycosyltransferase
+241.0,0.0269399787149117,-2.21887251338532,K,two-component response regulator
+242.2,2.76248520462208e-06,-2.76949334803799,"T, Z",uridine-cytidine kinase C-like
+242.8,0.000195061185242843,-2.54368381640642,A,H ACA ribonucleoprotein complex subunit
+243.0,0.0027217859871935,2.06675815258637,S,2-aminoethanethiol dioxygenase-like
+243.11,5.16779091657752e-05,-1.74034491275496,S,Protein of unknown function (DUF3353)
+243.12,0.00435709762922354,1.09906953074152,I,acyl-activating enzyme 17
+243.13,3.89719421787932e-07,2.10509593660673,I,acyl-activating enzyme 17
+243.14,0.0296962018244029,-2.85695767824136,T,disease resistance
+243.15,0.0458610053420243,1.39714900759305,P,phospholipid-transporting ATPase
+244.11,8.10118723180361e-07,3.36379294803499,Q,cytochrome P450
+244.14,0.000273364192579658,4.24238366272625,Q,cytochrome P450
+244.3,0.00192323893675124,1.97897797889592,T,serine threonine-protein kinase
+244.6,2.43458315182432e-05,-2.33592703828784,G,Nitrate transporter
+245.3,0.0346480841678346,-2.74641853319722,Q,cytochrome P450
+245.8,0.0111959365879138,2.79841914160827,Q,cytochrome P450
+246.14,0.00044190448177755,-2.98320797670794,K,ZnF_TAZ
+246.15,1.76909647975573e-25,3.9617898450973,O,protein-L-isoaspartate O-methyltransferase
+246.16,0.0080142648208044,1.77051517880876,S,Pfam:DUF2008
+246.2,0.000115392343319415,-3.59860159817077,O,E3 ubiquitin-protein ligase
+246.4,0.0330067177417498,-1.4825001889222,A,31 kDa ribonucleoprotein
+246.6,1.97978265108528e-16,-4.23205838975974,T,leucine-rich repeat receptor-like serine threonine tyrosine-protein kinase
+246.9,1.16084559899142e-08,-2.70954988078646,S,abhydrolase domain-containing protein
+247.12,0.0399894331773555,1.30824580374161,S,zinc finger CCCH domain-containing protein
+247.17,0.00415277015542809,1.87141188759838,S,Ribosomal protein S21
+247.21,5.14039381696031e-05,-1.71166116703289,O,RING
+247.4,0.0330067177417498,1.00417103354574,T,MA3 domain-containing protein
+248.17,0.0275293620054431,-1.30714177971761,K,transcription factor
+248.5,1.49683329068514e-11,5.44291794637504,S,Transferase family
+249.0,0.00978378512616754,-2.28242834692086,I,4-coumarate--CoA ligase-like
+249.1,4.74380129734379e-07,-2.44717408610841,I,4-coumarate--CoA ligase-like
+249.2,9.7863921721487e-18,-3.04243311718885,S,WD repeat-containing protein 74-like
+249.5,2.27833401389427e-07,1.82762643238823,E,aspartyl
+249.7,0.000222887721761164,-2.01995067707164,I,cycloeucalenol
+249.9,2.70262226804988e-08,-4.91900465098161,T,calcium-binding protein
+250.1,0.000213910374841318,-1.38663604186428,K,Elongation factor
+250.6,3.32274104202591e-06,1.95509798371171,A,Inherit from KOG: Snurportin 1
+251.1,0.00155821328896775,1.4784501761488,S,Inherit from euNOG: coiled-coil domain containing 84
+251.12,0.0105868589749555,1.35127172918744,O,SecE/Sec61-gamma subunits of protein translocation complex
+251.16,0.0127056426085618,-3.53637496491769,I,phospholipase
+251.22,6.38272795186373e-18,4.44704408179108,K,WRKY transcription factor
+251.7,0.0474920926815665,-2.24277493677648,S,Gamma carbonic
+252.1,1.74485995073076e-06,-3.31087036120301,D,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"
+252.16,0.0226228633167288,-1.07017308571248,J,60S ribosomal protein
+252.8,0.0338672882514009,1.18944568153654,B,DEK C terminal domain
+252.9,0.0338672882514009,2.08646654115908,S,Omega-hydroxypalmitate O-feruloyl
+253.13,0.00480195976506843,-1.52851064662327,S,armadillo beta-catenin repeat family protein
+253.5,4.43863365950063e-07,2.08912509698495,S,"Inherit from KOG: family with sequence similarity 214, member"
+254.0,0.00239147071462371,1.51782740412874,G,Glycosyl transferase family 29 protein
+254.1,0.0351457242066834,-1.11451074714603,J,Polynucleotide adenylyltransferase family protein
+254.1,2.39240784581013e-09,2.37530436063656,K,auxin response factor
+254.5,0.00265591922419948,1.26747572741898,K,Helix-loop-helix DNA-binding domain
+254.8,2.82351818478426e-06,-2.61801629165501,C,Phosphate carrier protein
+255.16,0.0198175792143006,1.70665479494714,I,Random slug protein
+255.6,0.00108396308173709,1.32977771940627,T,may have effects in promoting growth and development. May function in membrane trafficking and in fusion of vesicles with plasma membrane
+255.7,2.91669173208702e-06,-4.05948190362429,K,Transcription factor
+255.9,5.5223549778925e-24,-3.60025467182593,G,Glycosyl hydrolase family 38 protein
+256.0,0.0011707841875326,-2.44601654038952,"G, M, W",glucuronoxylan glucuronosyltransferase activity
+256.12,5.32691108534065e-08,-4.04463635288528,O,chaperone protein
+256.15,7.90280649159872e-09,2.48956787080607,S,Flavinator of succinate dehydrogenase
+256.19,7.83554371719233e-07,-1.79596029332898,K,Staphylococcal nuclease domain-containing protein
+256.21,3.02733484303236e-08,-4.76242466461976,"P, Q",respiratory burst oxidase
+256.4,1.46395861560413e-05,1.67956479162025,S,Solute carrier family 25 (Mitochondrial carrier
+257.11,5.32676866305129e-39,4.41728443236996,F,Nucleoside diphosphate kinase
+257.13,0.0175333296585753,-1.3706597924277,T,Serine Threonine protein kinase
+257.19,5.25294634141044e-10,-3.55060961911216,T,resistance protein
+257.2,0.000438789748633635,-2.86848011796062,S,Blue copper
+257.21,0.0357014076530012,-1.43272741087456,T,resistance protein
+257.3,2.19750794915513e-06,-4.01015166142966,"D, O",Caspase domain
+257.6,0.00635191216754581,-1.30201540120552,A,Polyadenylate-binding protein
+258.13,3.86183300390332e-28,12.970947337069,S,May have a structural role to stabilize the lipid body during desiccation of the seed by preventing coalescence of the oil. Probably interacts with both lipid and phospholipid moieties of lipid bodies. May also provide recognition signals for specific lipase anchorage in lipolysis during seedling growth
+258.4,0.015397110610601,-0.964973186685027,S,Polycomb group protein EMBRYONIC FLOWER
+258.7,8.5265235577604e-15,-5.34243584563929,K,ethylene-responsive transcription factor 5-like
+258.9,8.17921484046737e-18,-6.86409671329483,K,transcription factor
+259.12,9.38409829596639e-05,-1.65064962425018,"I, T",ceramide
+259.17,5.62516260730559e-05,-2.20493315952966,G,hexose carrier protein
+260.1,0.00991202458515691,-1.1224177552507,J,Ribosomal protein L15
+260.9,9.09938237847092e-07,2.0156199059219,K,RNA polymerase III RPC4
+261.3,4.48371023679852e-09,2.32505869782858,G,Inherit from COG: 2-Phosphoglycerate kinase
+261.4,5.90053927394538e-61,5.65831563421725,O,Heat Shock Protein
+261.5,2.92089160979019e-06,2.58801031109179,G,glycerol-3-phosphate transporter
+262.0,0.000236000436093424,1.47128937030136,O,E3 ubiquitin protein ligase
+262.16,0.00108806126601117,-3.84062579508657,S,21 kDa protein-like
+262.4,1.26638216081893e-20,-4.83239668747306,G,Removes the phosphate from trehalose 6-phosphate to produce free trehalose. Trehalose accumulation in plant may improve abiotic stress tolerance
+263.1,0.000136374306655294,-4.49854976680421,S,protein DEHYDRATION-INDUCED 19 homolog
+263.1,1.56934878592997e-06,-2.24948063042108,S,invertase pectin methylesterase inhibitor family protein DC
+263.11,0.0175629254811818,2.50011798665323,O,Pachytene checkpoint protein 2 homolog
+263.15,0.0359527906094195,0.942406204595832,S,ubiquitin-associated (UBA) TS-N domain-containing protein octicosapeptide Phox Bemp1 (PB1) domain-containing protein
+263.19,0.0186793459521831,1.3728240617884,S,C2 and GRAM domain-containing protein
+263.2,2.89215848957796e-17,3.03918406575807,S,PB1
+263.7,4.33673465565278e-08,-3.58880063641582,T,Lectin-domain containing receptor kinase
+263.8,0.000442969855497589,-3.40817106346547,S,Universal stress protein family
+263.9,0.00299135758685679,1.95850684500774,S,zinc ion binding protein
+264.0,0.00690615579898599,-2.90046771439948,J,60S ribosomal protein
+264.1,0.012651707864794,-2.02943366347974,Q,Copper methylamine
+264.6,0.0313490679125885,-1.24603633728836,B,histone deacetylase
